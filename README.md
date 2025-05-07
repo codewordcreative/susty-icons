@@ -22,10 +22,13 @@ The junk code is less of a problem than the rendering impact of unnecessarily co
 ## What's next
 
 ### Blog post with a basic how I did this and how to
-I'll cover this soon and link to it.
+I’ll cover this soon and link to it.
 
 ### More icons
-Over time, I'll keep adding more
+Over time, I’ll keep adding more. Hopefully others will join the cause.
+
+### Caveat
+I’m very new to Github, so bear with me if I do things in a strange way.
 
 ## How to contribute
 
