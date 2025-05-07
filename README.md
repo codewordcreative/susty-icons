@@ -63,7 +63,7 @@ If you have a pressing need for certain icons or noticed a particularly bad and 
 Very welcome. Reach out to me here or at my website, codewordcreative.com.
 
 ### Contributing
-Very, very welcome. Ideally, reach out, so we can avoid doing the same work twice. I have a fair few icons in different stages of optimisation and can advice on the best approaches for consistency. Equally, I’m open to advice from others on improving my own work in this regard. I’m many things, but I’m not a trained designer.
+Very, very welcome. Ideally, reach out, so we can avoid doing the same work twice. I have a fair few icons in different stages of optimisation and can advise on the best approaches for consistency. Equally, I’m open to advice from others on improving my own work in this regard. I’m many things, but I’m not a trained designer.
 
 ## Attribution, forks, modification, licensing
 
