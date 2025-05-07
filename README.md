@@ -3,7 +3,7 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 ## The alternative: HTML emojis
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. I included a few options to inspire you, just in case they’d work for you. But if they work for your own website or GUI, consider these:
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. I included a few options to inspire you, just in case they’d work for you.
 
 ☀️ `&#9728;&#65039;` Light mode option 1 (Sun)
 🌞	`&#127774;` Light mode option 2 (Sun with face)
