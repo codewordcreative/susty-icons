@@ -1,6 +1,17 @@
 # Sustainable UI icons
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
 
+## System and usage notes
+
+### Styling
+Colour and style are defined individually in the code. These are defauled to pure black (#000) for sustainability reasons. The viewbox is set to 160 x 160 to allow flexibility for more complex icons (see the comments on mathematics below). The stroke width is set to 5. You can play with all of these variables as you choose.
+
+### External vs. inline use
+Despite these being so small, external SVG files are recommended as they can be cached more easily and used across pages. There can be some sustainability advantages to inline SVGs in certain circumstances, but that’s beyond the scope of this project. Note that CSS cannot be used to manipulate elements of SVGs directly unless they are inline, although any manipulation you can apply to an image will work (though filters and transforms in CSS can have an impact, too).
+
+### Summary of terms
+This project uses an MIT licence. In short, reuse without attribution, even with modification, is fine in any personal or commercial project. Redistribution - read the licence for full details.
+
 ## Background
 
 ### There's a problem with most commonly used icons and SVGs
@@ -26,6 +37,12 @@ I’ll cover this soon and link to it.
 
 ### More icons
 Over time, I’ll keep adding more. Hopefully others will join the cause.
+
+### Potential improvements
+Negative space variants. A different default colour. Thicker or thinner lines. I’ll probably look into this once I have made more, then I can automate the transformations and do them all at once with a script.
+
+### One day, maybe
+A generator with different styling options. Probably doable, but I’ll need to finish paid projects first!
 
 ### Caveat
 I’m very new to Github, so bear with me if I do things in a strange way.
