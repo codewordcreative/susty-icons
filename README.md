@@ -5,17 +5,17 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. I included a few options to inspire you, just in case they’d work for you. But if they work for your own website or GUI, consider these:
 
-☀️ &#9728;&#65039; Light mode option 1 (Sun)
-🌞	&#127774;	Light mode option 2 (Sun with face)
-🔆	&#128261;	Light mode option 3 (Brightness symbol)
-🌙 &#127769; Night mode option 1 (Moon)
-🌑 &#127761; Night mode option 2 (Purple new moon)
-🌚 &#127770; Night mode option 3 (Purple new moon with a face)
-🌿 &#127807; Eco mode option 1 (Herb)
-🌱 &#127793; Eco mode option 2 (Seedling) 
-🍃 &#127807; Eco mode option 3 (Leaf in wind)
-🌳	&#127795;	Eco mode option 4 (Bulky tree)
-🌲	&#127794; Eco mode option 5 (Pine tree)
+☀️ `&#9728;&#65039;` Light mode option 1 (Sun)
+🌞	`&#127774;` Light mode option 2 (Sun with face)
+🔆	`&#128261;`	Light mode option 3 (Brightness symbol)
+🌙 `&#127769;` Night mode option 1 (Moon)
+🌑 `&#127761;` Night mode option 2 (Purple new moon)
+🌚 `&#127770;` Night mode option 3 (Purple new moon with a face)
+🌿 `&#127807;` Eco mode option 1 (Herb)
+🌱 `&#127793;` Eco mode option 2 (Seedling) 
+🍃 `&#127807;` Eco mode option 3 (Leaf in wind)
+🌳	`&#127795;`	Eco mode option 4 (Bulky tree)
+🌲	`&#127794;` Eco mode option 5 (Pine tree)
 
 Add an aria-label if there is no accompanying text to explain what the symbol means.
 
