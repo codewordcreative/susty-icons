@@ -23,6 +23,7 @@ In short, many of the commonly used icon sets are not great on the sustainabilit
 * Overuse of additional points to create curves, when adjusting the main curve would suffice
 * General junk code, but existing tooling is good for getting rid of this
 * Rare in icons, but worth mentioning: Some transforms used are much more complex to render (see below)
+* Rare in icons, but common in logos: Forgetting the text element exists (vectors of text are so complex!)
 
 ### Specifically: Code bloat 
 Excessive data and unnecessarily information lead to code bloat. As in, more data transferred. This is often a matter of bytes, but this adds up fast in regularly used icons.
