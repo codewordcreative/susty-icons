@@ -7,21 +7,7 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 ## The alternative: HTML emojis
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. I included a few options to inspire you, just in case they’d work for you.
-
-☀️ `&#9728;&#65039;` Light mode option 1 (Sun)
-🌞	`&#127774;` Light mode option 2 (Sun with face)
-🔆	`&#128261;`	Light mode option 3 (Brightness symbol)
-🌙 `&#127769;` Night mode option 1 (Moon)
-🌑 `&#127761;` Night mode option 2 (Purple new moon)
-🌚 `&#127770;` Night mode option 3 (Purple new moon with a face)
-🌿 `&#127807;` Eco mode option 1 (Herb)
-🌱 `&#127793;` Eco mode option 2 (Seedling) 
-🍃 `&#127807;` Eco mode option 3 (Leaf in wind)
-🌳	`&#127795;`	Eco mode option 4 (Bulky tree)
-🌲	`&#127794;` Eco mode option 5 (Pine tree)
-
-Add an aria-label if there is no accompanying text to explain what the symbol means.
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use HTML emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means.
 
 ## System and usage notes
 
@@ -39,7 +25,7 @@ This project uses an MIT licence. In short, reuse without attribution, even with
 ### There's a problem with most commonly used icons and SVGs
 In short, many of the commonly used icon sets are not great on the sustainability front. Typical problems include:
 * Multiple decimal places (computers don't like long multiplication and division any more than we do)
-* Related: Irregular viewboxes
+* Related: Irregular viewboxes (but don't fudge that with lots of decimal places!)
 * Failure to use built-in shapes (e.g., circles, ellipses)
 * Repeating identical or near-identical symbols more than once rather than using the symbol and use system
 * Overuse of additional points to create curves, when adjusting the main curve would suffice
@@ -54,9 +40,9 @@ Excessive data and unnecessarily information lead to code bloat. As in, more dat
 The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon.
 
 ### Why start with these?
-I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually.
+I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. Then, in version 1.1 and beyond, I'm proceeding to add a few more commonly used icons.
 
-#### Side note: Eco mode suggestions
+#### Side note: Eco mode suggestions, in case the thought above intrigued you.
 Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a contrast checker, e.g., https://webaim.org/resources/contrastchecker/
 
 ## What's next
