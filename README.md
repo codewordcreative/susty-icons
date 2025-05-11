@@ -7,7 +7,7 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 ## What's so good about them
 
-They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation.
+They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation and sparked the desire to make this an MIT licence project.
 
 ## The alternative: HTML emojis
 
