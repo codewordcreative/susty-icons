@@ -2,8 +2,12 @@
 ## Recent changes
 Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity.
 
-# Sustainable UI icons
+# Sustainable icons: The Susty Icons set
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
+
+## What's so good about them
+
+They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation.
 
 ## The alternative: HTML emojis
 
