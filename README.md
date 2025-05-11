@@ -1,6 +1,6 @@
 ### A work in progress before initial release
 ## Recent changes
-Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity.
+Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent).
 
 # Sustainable icons: The Susty Icons set
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
@@ -35,6 +35,7 @@ In short, many of the commonly used icon sets are not great on the sustainabilit
 * Repeating identical or near-identical symbols more than once rather than using the symbol and use system
 * Overuse of additional points to create curves, when adjusting the main curve would suffice
 * General junk code, but existing tooling is good for getting rid of this
+* Unnecessary attributes (e.g., stroke-linejoin="round" in images where no lines join, or stroke-linecap="round" where no lines have open ends)
 * Rare in icons, but worth mentioning: Some transforms used are much more complex to render (see below)
 * Rare in icons, but common in logos: Forgetting the text element exists (vectors of text are so complex!)
 
