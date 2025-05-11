@@ -1,6 +1,6 @@
-### Current version: V.1.1
+### A work in progress before initial release
 ## Recent changes
-Various new icons added. All icons standardised to a 128x128 grid.
+Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity.
 
 # Sustainable UI icons
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
@@ -12,7 +12,7 @@ I'd be breaking a personal rule if I didn't mention this other option. This woul
 ## System and usage notes
 
 ### Styling
-Colour and style are defined individually in the code. These are defaulted to pure black (#000). In cases where a second colour is more efficient than a mask (cut-out effect), I have defaulted to pure white (#fff). The viewbox is set to 128 x 128 to allow flexibility for more complex icons while supporting a common dimension (see the comments on mathematics below). The stroke width is set to 5. I’ve set fill to none (outline effect) and favoured a more rounded appearance to the lines. You can play with all of these variables as you choose.
+Colour and style are defined individually in the code. These are defaulted to pure black (#000). The viewbox is set to 128 x 128 to allow flexibility for more complex icons while supporting a common dimension (see the comments on mathematics below). The stroke width is set to 5. I’ve set fill to none (outline effect) and favoured a more rounded appearance to the lines. You can play with all of these variables as you choose.
 
 ### External vs. inline use
 Despite these being so small, external SVG files are recommended as they can be cached more easily and used across pages. There can be some sustainability advantages to inline SVGs in certain circumstances, for example when only used once on a page or in combination with certain animations, but that’s beyond the scope of this project. Note that CSS cannot be used to manipulate elements of SVGs directly unless they are inline, although any manipulation you can apply to an image will work (though filters and transforms in CSS can have an impact, too).
@@ -27,11 +27,15 @@ In short, many of the commonly used icon sets are not great on the sustainabilit
 * Multiple decimal places (computers don't like long multiplication and division any more than we do)
 * Related: Irregular viewboxes (but don't fudge that with lots of decimal places!)
 * Failure to use built-in shapes (e.g., circles, ellipses)
+* Outlining both sides of an outline icon's boundaries when the stroke-width attribute would suffice
 * Repeating identical or near-identical symbols more than once rather than using the symbol and use system
 * Overuse of additional points to create curves, when adjusting the main curve would suffice
 * General junk code, but existing tooling is good for getting rid of this
 * Rare in icons, but worth mentioning: Some transforms used are much more complex to render (see below)
 * Rare in icons, but common in logos: Forgetting the text element exists (vectors of text are so complex!)
+
+### Additional aspect I'll be experimenting with
+* Relative versus absolute positioning: While this won't make a difference in SVGs with a single starting position, it could play a role in others - increasing rendering complexity. This may have a negligible impact in small SVGs, but a bigger one in larger ones. Where there is no difference in data size, I am favouring absolute positioning.
 
 ### Specifically: Code bloat 
 Excessive data and unnecessarily information lead to code bloat. As in, more data transferred. This is often a matter of bytes, but this adds up fast in regularly used icons.
