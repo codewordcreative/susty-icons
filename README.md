@@ -26,6 +26,9 @@ Colour and style are defined individually in the code. These are defaulted to pu
 ### External vs. inline use
 Despite these being so small, external SVG files are recommended as they can be cached more easily and used across pages. There can be some sustainability advantages to inline SVGs in certain circumstances, for example when only used once on a page or in combination with certain animations, but that’s beyond the scope of this project. Note that CSS cannot be used to manipulate elements of SVGs directly unless they are inline, although any manipulation you can apply to an image will work (though filters and transforms in CSS can have an impact, too).
 
+### Accessibility
+Currently, these icons have no title attribute. Ideally, you would add one in appropriate to the icon's purpose in your interface. Alternatively, alt text can help.
+
 ### Summary of terms
 This project uses an MIT licence. In short, reuse without attribution, even with modification, is fine in any personal or commercial project. Redistribution - read the licence for full details.
 
