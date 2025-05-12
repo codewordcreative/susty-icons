@@ -2,7 +2,7 @@
 Default: 5 point thickness stroke in 128 grid:
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/sustyicons-grid.webp)
 Thin variant: 2 point thickness stroke in 128 grid, found in subfolder:
-![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/susty-icons-thin/sustyicons-thin-grid.webp)
+![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/sustyicons-thin-grid.webp)
 Light variant: Lighter stroke on dark background, found in subfolder:
 ![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/sustyicons-light-grid.webp)
 
