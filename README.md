@@ -3,9 +3,11 @@ Default: 5 point thickness stroke in 128 grid:
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/sustyicons-grid.webp)
 Thin variant: 2 point thickness stroke in 128 grid, found in subfolder:
 ![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/susty-icons-thin/sustyicons-thin-grid.webp)
+Light variant: Lighter stroke on dark background, found in subfolder:
+![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/susty-icons-thin/sustyicons-light-grid.webp)
 
 ## Recent changes
-Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin variant.
+Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets.
 
 # Sustainable icons: The Susty Icons set
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
