@@ -102,14 +102,17 @@ When I launch the repo, I'll probably include a few different tone of voice opti
  
 ## What's next
 
+### Dark-light-eco mode switcher repo
+This will be the easiest to get done.
+
 ### Blog post with a basic how I did this and how to
 I’ll cover this soon and link to it.
 
 ### More icons
-Over time, I’ll keep adding more. Hopefully others will join the cause.
+Over time, I’ll keep adding more. If I keep at it, eventually it'll be enough to call a set.
 
 ### Potential improvements
-Negative space variants. A different default colour. Thicker or thinner lines. I’ll probably look into this once I have made more, then I can automate the transformations and do them all at once with a script.
+Negative space variants. I already have scripts to vary padding (the easiest while remaining efficient involves a transform on the axes and changing the viewbox size), change the colours, and change the line thickness. Negative space could potentially be automated, but would then require manual correction and potentially redrawing in some cases. ´
 
 ### One day, maybe
 A generator with different styling options. Probably doable, but I’ll need to finish paid projects first!
