@@ -14,7 +14,7 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 ## What's so good about them
 
-They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation and sparked the desire to make this an MIT licence project.
+They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation and sparked the desire to make this an MIT licence project. Everything is created using stroke rather than fill to maximise efficiency: Unfortunately, most "line" icons out there are actually defining and drawing both sides of the line as a filled path. Messy.
 
 ## The alternative: HTML emojis
 
@@ -56,17 +56,30 @@ In short, many of the commonly used icon sets are not great on the sustainabilit
 Excessive data and unnecessarily information lead to code bloat. As in, more data transferred. This is often a matter of bytes, but this adds up fast in regularly used icons.
 
 ### Specifically: Rendering and resource usage 
-The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon.
+The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon. Edit: Most likely this summer, when a fellow digital sustainability nerd and I have more time to get that data and put it all together. It's coming, though!
 
 ### "Controversial" choice, at least for me...
 I'm not putting the symbol inside <defs>. It can be read by modern browsers regardless and adds pointless bits. Better: I'll try to encourage colleagues at the W3C to update the standard. :)
 
 ### Why start with these?
-I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. Then, in version 1.1 and beyond, I'm proceeding to add a few more commonly used icons.
+I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. I'm now adding more commonly used icons with the ambition of turning it into a full set.
 
 #### Side note: Eco mode suggestions, in case the thought above intrigued you.
 Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a contrast checker, e.g., https://webaim.org/resources/contrastchecker/
 
+#### By request: An example of my susty icons in a dark mode UI
+I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own.
+
+![Light mode](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/light-mode-example.webp)
+![Dark mode](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/dark-mode-example.webp)
+![Eco mode](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/eco-mode-example.webp)
+
+##### Implementation notes
+* While I appreciate colour-changing icon effects when and where they add value, I prefer key icons to be cacheable and avoid filters (the workaround) where able. That's why the buttons look the same on light and dark mode, only visibly changing on eco mode.
+* I've not yet worked out if the rendering impact of adding a semi-transparent overlay (or making a photo semi-transparent) and resulting darker page background would offset the impact of having a slightly brighter background image or not. As a result, the page background doesn't change on dark mode.
+* The (i) button opens up that tooltip you see. Clicking on it closes it again.
+* Actually including eco mode in a design is very simple once you have already accommodated dark and light mode preferences. Given how established those are, we should view that as a basic minimum, anyway. Colours are easy to control using variables. I personally use JavaScript to add classes to the page, which then change the active variables. Conditional styling can also be used to effectively emulate the effect of what may one day be a prefers-eco-mode media query. 
+ 
 ## What's next
 
 ### Blog post with a basic how I did this and how to
