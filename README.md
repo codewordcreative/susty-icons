@@ -16,9 +16,9 @@ An initially small collection of sustainability-optimised SVG icons for free use
 
 They're designed to be efficient in data size and rendering. They are significantly smaller than almost all icon sets out there right now, which is what necessitated their creation and sparked the desire to make this an MIT licence project. Everything is created using stroke rather than fill to maximise efficiency: Unfortunately, most "line" icons out there are actually defining and drawing both sides of the line as a filled path. Messy.
 
-## The alternative: HTML emojis
+## The alternative: HTML emojis (Unicode, built in) 
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use HTML emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means.
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use HTML emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Check out W3 Schools for guidance and easy to use reference: https://www.w3schools.com/html/html_emojis.asp
 
 ## System and usage notes
 
