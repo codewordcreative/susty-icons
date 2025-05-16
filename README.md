@@ -18,7 +18,7 @@ They're designed to be efficient in data size and rendering. They are significan
 
 ## The alternative: HTML emojis (Unicode, built in) 
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use HTML emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Check out W3 Schools for guidance and easy to use reference: https://www.w3schools.com/html/html_emojis.asp
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use built-in Unicode emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Check out W3 Schools for guidance and easy to use reference: https://www.w3schools.com/html/html_emojis.asp
 
 ## System and usage notes
 
