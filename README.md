@@ -70,7 +70,23 @@ Pure black (#000) allows OLED monitors to completely cut power to those pixels. 
 #### By request: An example of my susty icons in a dark mode UI
 I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own.
 
-<img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/light-mode-example.webp" alt="light mode" width="200" padding="10" margin="10" border-radius="15"><img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/dark-mode-example.webp" alt="dark mode" width="200" padding="10" margin="10" border-radius="15"><img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/eco-mode-example.webp" alt="eco mode" width="200" padding="10" margin="10" border-radius="15">
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/light-mode-example.webp" alt="Light Mode" width="200"><br>
+      <strong>Light mode</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/dark-mode-example.webp" alt="Dark Mode" width="200"><br>
+      <strong>Dark mode</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/eco-mode-example.webp" alt="Eco Mode" width="200"><br>
+      <strong>Eco mode</strong>
+    </td>
+  </tr>
+</table>
+
 
 ##### Implementation notes
 * While I appreciate colour-changing icon effects when and where they add value, I prefer key icons to be cacheable and avoid filters (the workaround) where able. That's why the buttons look the same on light and dark mode, only visibly changing on eco mode.
