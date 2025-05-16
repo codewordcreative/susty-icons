@@ -72,6 +72,7 @@ I'll most likely share another repository with code for a simple dark-light-eco 
 
 For easy reuse, here's the text: 
 > Read me the way you want: light, dark, or low-energy eco mode.
+
 When I launch the repo, I'll probably include a few different tone of voice options in English and German. Gotta use that copywriting background and second language occasionally, right? (I mostly just want to write the puns that almost write themselves in German, to be honest - Helles, Dunkles, oder "Bio"? It all sounds like beer. Or a Pippi Langstrumpf pun.)
 
 <table>
