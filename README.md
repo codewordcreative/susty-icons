@@ -71,8 +71,8 @@ Pure black (#000) allows OLED monitors to completely cut power to those pixels. 
 I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own.
 
 For easy reuse, here's the text: 
-Read me the way you want: light, dark, or low-energy eco mode.
-When I launch the repo, I'll probably include a few different tone of voice options in English and German. Gotta use that copywriting background and second language occasionally, right? (I mostly just want to write the puns that almost write themselves in German, to be honest - Helles, Dunkles, oder "Bio"? It all sounds like beer.)
+> Read me the way you want: light, dark, or low-energy eco mode.
+When I launch the repo, I'll probably include a few different tone of voice options in English and German. Gotta use that copywriting background and second language occasionally, right? (I mostly just want to write the puns that almost write themselves in German, to be honest - Helles, Dunkles, oder "Bio"? It all sounds like beer. Or a Pippi Langstrumpf pun.)
 
 <table>
   <tr>
