@@ -1,6 +1,0 @@
-sync-to-github.sh
-*.pyc
-__pycache__/
-*.log
-LICENSE
-README.md
