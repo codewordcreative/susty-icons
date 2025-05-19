@@ -1,4 +1,4 @@
-### A work in progress before initial release: Currently 147 icons (including solid or small variations, excluding variant sets)
+### A work in progress before initial release: Currently 151 icons (including solid or small variations, excluding variant sets)
 Default: 5 point thickness stroke in 128 grid:
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-grid.webp)
 Thin variant: 2-point thickness stroke in 128 grid, found in subfolder:
@@ -11,7 +11,7 @@ Light thin variant: 2-point thickness lighter stroke on dark background, found i
 
 
 ## Recent changes
-Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets.
+Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets. Also added the Emoji Finder link (https://codewordcreative.com/find-emojis.html).
 
 # Sustainable icons: The Susty Icons set
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
@@ -22,7 +22,7 @@ They're designed to be efficient in data size and rendering. They are significan
 
 ## The alternative: HTML emojis (Unicode, built in) 
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use built-in Unicode emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Check out W3 Schools for guidance and easy-to-use reference: https://www.w3schools.com/html/html_emojis.asp. This page provides all at a glance: https://unicode.org/Public/emoji/latest/emoji-test.txt. I hope to share a sustainable interactive solution soon. 
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use built-in Unicode emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Aware that we really, really need more sustainable alternatives to the usual emoji-finding tools out there, I created the Emoji Finder: https://codewordcreative.com/find-emojis.html. It's all in the HTML file, so you can download it to your computer, and it'll be cacheable. You can search by name or code, filter by group or release version - and just click to copy the emoji or its code. It also features a primitive light/dark/eco mode theme switcher.
 
 ## System and usage notes
 
@@ -72,7 +72,7 @@ I was inspired by a discussion on light, dark, and eco mode support for websites
 Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a contrast checker, e.g., https://webaim.org/resources/contrastchecker/
 
 #### By request: An example of my susty icons in a dark mode UI
-I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own.
+I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, the Emoji Finder has a primitive dark/light/eco mode switcher: https://codewordcreative.com/find-emojis.html
 
 For easy reuse, here's the text: 
 > Read me the way you want: light, dark, or low-energy eco mode.
