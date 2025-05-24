@@ -1,4 +1,4 @@
-### A work in progress before initial release: Currently 151 icons (including solid or small variations, excluding variant sets)
+### A work in progress before initial release: Currently 170+ icons (including solid or small variations, excluding variant sets)
 Default: 5 point thickness stroke in 128 grid:
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-grid.webp)
 Thin variant: 2-point thickness stroke in 128 grid, found in subfolder:
