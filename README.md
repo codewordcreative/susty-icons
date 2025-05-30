@@ -1,18 +1,18 @@
 ### A work in progress before initial release: Currently 175+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
 Default: 5 point thickness stroke in 128 grid:
-![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-bold-grid.webp)
+![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-bold.webp)
 Thin variant: 2-point thickness stroke in 128 grid, found in subfolder:
-![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-thin-grid.webp)
+![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-thin.webp)
 Light variant: Light stroke on dark background, found in subfolder:
-![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-bold-grid.webp)
+![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-bold.webp)
 Light thin variant: 2-point thickness lighter stroke on dark background, found in subfolder:
-![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-thin-grid.webp)
+![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-thin.webp)
 
 ## Most recent update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
 I'm getting close to covering all the basics now, so I guess we are heading to an official v1 release. I've not promoted the icons at all yet, but already have some stars - thank you!
-I've also separated the folders for different styles off for easier processing and maintenance, and am pregenerating certain popular colour choices, plus ones I am likely to use myself. I have also now separated off the solid icons - just because I found them a bit annoying/distracting when admiring the sets!
+I've also separated the folders for different styles off for easier processing and maintenance, and am pregenerating certain popular colour choices, plus ones I am likely to use myself. I have also now separated off the solid icons - just because I found them a bit annoying/distracting when admiring the sets! Less relevant to others on the outside, but I also reworked the grid generation system so it's easier to create the demo grids.
 
 ## Recent changes
 Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets. Also added the Emoji Finder link (https://codewordcreative.com/find-emojis.html).
