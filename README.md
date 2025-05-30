@@ -1,5 +1,7 @@
 ### A work in progress before initial release: Currently 175+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
+Preview all the existing icons and their variants here: https://codewordcreative.github.io/susty-icons/preview-variants.html
+
 Black bold icons (5 pt stroke)
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-bold.webp)
 Black thin icons (2 pt stroke):
@@ -15,8 +17,12 @@ Light solid icons:
 
 ## Most recent update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
+
 I'm getting close to covering all the basics now, so I guess we are heading to an official v1 release. I've not promoted the icons at all yet, but already have some stars - thank you!
-I've also separated the folders for different styles off for easier processing and maintenance, and am pregenerating certain popular colour choices, plus ones I am likely to use myself. I have also now separated off the solid icons - just because I found them a bit annoying/distracting when admiring the sets! Less relevant to others on the outside, but I also reworked the grid generation system so it's easier to create the demo grids. In adding a lot of icons, I also made a slightly 'political' choice regarding the accessibility/wheelchair icon. I could have made it even smaller without the curves, but I dislike how the standard icons seem to emphasise the chair, make them a passive user, and generally reduce the person to chair first and person second. For this reason, I added softer curves and a clear distinction between chair and human to better represent the people who use them.
+
+I've also separated the folders for different styles off for easier processing and maintenance, and am pregenerating certain popular colour choices, plus ones I am likely to use myself. I have also now separated off the solid icons - just because I found them a bit annoying/distracting when admiring the sets! Less relevant to others on the outside, but I also reworked the grid generation system so it's easier to create the demo grids.
+
+In adding a lot of icons, I also made a slightly 'political' choice regarding the accessibility/wheelchair icon. I could have made it even smaller without the curves, but I dislike how the standard icons seem to emphasise the chair, make them a passive user, and generally reduce the person to chair first and person second. For this reason, I added softer curves and a clear distinction between chair and human to better represent the people who use them.
 
 ## Recent changes
 Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets. Also added the Emoji Finder link (https://codewordcreative.com/find-emojis.html).
