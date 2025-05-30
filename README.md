@@ -1,13 +1,13 @@
 ### A work in progress before initial release: Currently 175+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
 Default: 5 point thickness stroke in 128 grid:
-![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-black-bold-grid.webp)
+![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-bold-grid.webp)
 Thin variant: 2-point thickness stroke in 128 grid, found in subfolder:
-![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-black-thin-grid.webp)
+![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-black-thin-grid.webp)
 Light variant: Light stroke on dark background, found in subfolder:
-![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-light-bold-grid.webp)
+![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-bold-grid.webp)
 Light thin variant: 2-point thickness lighter stroke on dark background, found in subfolder:
-![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-light-thin-grid.webp)
+![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/Sustyicons-light-thin-grid.webp)
 
 ## Most recent update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
