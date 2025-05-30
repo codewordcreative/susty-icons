@@ -1,11 +1,11 @@
 ### A work in progress before initial release: Currently 175+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
 Default: 5 point thickness stroke in 128 grid:
-![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-grid.webp)
+![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-black-bold-grid.webp)
 Thin variant: 2-point thickness stroke in 128 grid, found in subfolder:
-![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-thin-grid.webp)
-Light variant: Lighter stroke on dark background, found in subfolder:
-![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-light-grid.webp)
+![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-black-thin-grid.webp)
+Light variant: Light stroke on dark background, found in subfolder:
+![Screenshot of currently finished light icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-light-bold-grid.webp)
 Light thin variant: 2-point thickness lighter stroke on dark background, found in subfolder:
 ![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/sustyicons-light-thin-grid.webp)
 
