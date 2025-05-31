@@ -4,16 +4,20 @@ Preview all the existing icons and their variants here: https://codewordcreative
 
 Black bold icons (5 pt stroke)
 ![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-bold.webp)
+Black medium icons (3 pt stroke):
+![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-medium.webp)
 Black thin icons (2 pt stroke):
 ![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-thin.webp)
 Black solid icons:
 ![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-solid.webp)
 Light bold icons (5 pt stroke)
 ![Screenshot of currently finished light bold icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-bold.webp)
+Light medium icons (3 pt stroke)
+![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-medium.webp)
 Light thin icons (2 pt stroke)
 ![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-thin.webp)
 Light solid icons:
-![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/docs/Sustyicons-light-solid.webp)
+![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-solid.webp)
 
 ## Most recent update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
