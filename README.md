@@ -13,7 +13,7 @@ Light bold icons (5 pt stroke)
 Light thin icons (2 pt stroke)
 ![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-thin.webp)
 Light solid icons:
-![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/docs/Sustyicons-light-solid.webp)
+![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-solid.webp)
 
 ## Most recent update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
