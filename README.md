@@ -1,4 +1,4 @@
-### A work in progress before initial release: Currently 175+ outline icons including some variations of the same icon idea, and around 50 solid variants.
+### A work in progress before initial release: Currently 180+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
 Preview all the existing icons and their variants here: https://codewordcreative.github.io/susty-icons/preview-variants.html
 
@@ -26,12 +26,12 @@ I'm getting close to covering all the basics now, so I guess we are heading to a
 
 I've also separated the folders for different styles off for easier processing and maintenance, and am pregenerating certain popular colour choices, plus ones I am likely to use myself. I have also now separated off the solid icons - just because I found them a bit annoying/distracting when admiring the sets! Less relevant to others on the outside, but I also reworked the grid generation system so it's easier to create the demo grids.
 
-Talking of the grids: I added a static html page to preview the existing variants. Demo pics have also been moved. See: https://codewordcreative.github.io/susty-icons/preview-variants.html
+Talking of the grids: I added a static html page to preview the existing variants. Demo pics have also been moved to a new [preview page with download links for the entire zip file](https://codewordcreative.github.io/susty-icons/preview-variants.html).
 
 In adding a lot of icons, I also made a slightly 'political' choice regarding the accessibility/wheelchair icon. I could have made it even smaller without the curves, but I dislike how the standard icons seem to emphasise the chair, make them a passive user, and generally reduce the person to chair first and person second. For this reason, I added softer curves and a clear distinction between chair and human to better represent the people who use them.
 
 ## Recent changes
-Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets. Also added the Emoji Finder link (https://codewordcreative.com/find-emojis.html).
+Various new icons added. All icons standardised to a 128x128 grid. Padding standardised to 12 pixels. Sticking to pure line-icon style for maximum efficiency. I have now added a template icon (1template.svg) to allow anyone wishing to contribute their own icons to stick to the same styling. Note that this is prettified for clarity. I've also removed some unnecessary attributes (design-dependent). Python script to batch process SVGs to make changes across all created and tested - used to create the thin and light variants. It's very easy to create variant sets. Also added the [Emoji Finder](https://codewordcreative.com/find-emojis.html) link.
 
 # Sustainable icons: The Susty Icons set
 An initially small collection of sustainability-optimised SVG icons for free use and inspiration.
@@ -42,7 +42,7 @@ They're designed to be efficient in data size and rendering. They are significan
 
 ## The alternative: HTML emojis (Unicode, built in) 
 
-I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use built-in Unicode emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Aware that we really, really need more sustainable alternatives to the usual emoji-finding tools out there, I created the Emoji Finder: https://codewordcreative.com/find-emojis.html. It's all in the HTML file, so you can download it to your computer, and it'll be cacheable. You can search by name or code, filter by group or release version - and just click to copy the emoji or its code. It also features a primitive light/dark/eco mode theme switcher.
+I'd be breaking a personal rule if I didn't mention this other option. This would be even more efficient than my SVGs. The problem is more consistency. If you can use built-in Unicode emojis, do. Add an aria-label if there is no accompanying text to explain what the symbol means. Aware that we really, really need more sustainable alternatives to the usual emoji-finding tools out there, I created the [Emoji Finder](https://codewordcreative.com/find-emojis.html). It's all in the HTML file, so you can download it to your computer, and it'll be cacheable. You can search by name or code, filter by group or release version - and just click to copy the emoji or its code. It also features a primitive light/dark/eco mode theme switcher.
 
 ## System and usage notes
 
@@ -89,10 +89,10 @@ I'm not putting the symbol inside <defs>. It can be read by modern browsers rega
 I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. I'm now adding more commonly used icons with the ambition of turning it into a full set.
 
 #### Side note: Eco mode suggestions, in case the thought above intrigued you.
-Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a contrast checker, e.g., https://webaim.org/resources/contrastchecker/
+Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a [contrast checker](https://webaim.org/resources/contrastchecker/).
 
 #### By request: An example of my susty icons in a dark mode UI
-I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, the Emoji Finder has a primitive dark/light/eco mode switcher: https://codewordcreative.com/find-emojis.html
+I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, the [Emoji Finder](https://codewordcreative.com/find-emojis.html) has a primitive dark/light/eco mode switcher.
 
 For easy reuse, here's the text: 
 > Read me the way you want: light, dark, or low-energy eco mode.
@@ -166,8 +166,20 @@ Very welcome. Reach out to me here or at my website, codewordcreative.com.
 ### Contributing
 Very welcome. Ideally, reach out, so we can avoid doing the same work twice. I have a fair few icons in different stages of optimisation and can advise on the best approaches for consistency. Equally, I’m open to advice from others on improving my own work in this regard. I’m many things, but I’m not a trained designer.
 
+## Additional resources on SVGs
+Here are some links anyone similarly obsessed with SVGs may find helpful. I've discovered these later on in my own process, but they are saying a lot of the same things as me - so no need to reinvent the wheel:
+Tools I use:
+[SVG path optimiser](https://yqnn.github.io/svg-path-editor/#)
+[SVG viewer](https://www.svgviewer.dev/)
+
+Resources I found a bit later:
+[SVG tips for designers
+](https://www.sarasoueidan.com/blog/svg-tips-for-designers/)
+[SVG stress test](https://cloudfour.com/thinks/svg-icon-stress-test/)
+
+
 ## Attribution, forks, modification, licensing
 
 I've deliberately used a permissive MIT License to encourage broad adoption of more sustainable icons everywhere. While not required under the MIT License, I’d still appreciate it if you could kindly credit me when redistributing these icons of modifications thereof, and or let me know if you’re redistributing them. To be honest, it’ll make me happy just to know more people are eager to rid the internet of inefficient icons. Added because of past experience with plagiarists: Obviously, you can't claim credit for creating them in the first place. I made them, and it took a lot of time and hyperfocus. Reuse, education, and learning from my techniques is encouraged. Deceptive behaviour is not. 
 
-Regarding brands: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement by the trademark holder.
+Regarding brands: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement by the trademark holder. Do not use these icons to misrepresent these brands in any way. Where these brands have their own additional brand guidance, their requests apply here analogously.
