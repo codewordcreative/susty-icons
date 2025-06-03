@@ -9,3 +9,6 @@ README.md
 *.py
 *.sh
 *.json
+*.js
+deprecated/
+node_modules/
