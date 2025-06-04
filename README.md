@@ -6,8 +6,9 @@
 I created the playground as a more environmentally friendly alternative to image previews, but it evolved into so much more. :)
 
 [Click here for previews of the existing sets...](https://codewordcreative.github.io/susty-icons/preview-variants.html)
-[...Or click here to explore what is possible with your own sprite file - different colours, sizes, and stroke widths, and different backgrounds for visual comparison.
-](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html)
+
+[...Or click here to explore what is possible with your own sprite file
+](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html) - different colours, sizes, and stroke widths, and different backgrounds for visual comparison.
 
 Black medium icons (3 pt stroke):
 ![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-medium.webp)
