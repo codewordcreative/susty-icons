@@ -10,6 +10,8 @@ I created the playground as a more environmentally friendly alternative to image
 [...Or click here to explore what is possible with your own sprite file
 ](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html) - different colours, sizes, and stroke widths, and different backgrounds for visual comparison.
 
+### Some general examples
+
 Black medium icons (3 pt stroke):
 ![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-medium.webp)
 Black solid icons:
@@ -19,7 +21,7 @@ Light medium icons (3 pt stroke)
 Light solid icons:
 ![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-solid.webp)
 
-## Most recent update (30 May 2025):
+## Previous update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
 
 I'm getting close to covering all the basics now, so I guess we are heading to an official v1 release. I've not promoted the icons at all yet, but already have some stars - thank you!
