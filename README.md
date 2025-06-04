@@ -1,25 +1,27 @@
 ### A work in progress before initial release: Currently 180+ outline icons including some variations of the same icon idea, and around 50 solid variants.
 
-Preview all the existing icons and their variants here: https://codewordcreative.github.io/susty-icons/preview-variants.html
+## Major update: 4 June 2025:
+[THE PLAYGROUND IS OPEN!](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html) Or, more seriously speaking, I've created a tool I'm genuinely proud of! I'm calling it the Susty Icon CSS Playground. What makes it so cool? Well... It's designed to work in concert with the new SVG sprite setup. Apparently it's not commonly done, since it didn't used to work very well... But external SVG sprite files DO work these days, and you can achieve some great sustainability, usability, and performance returns with them: they're smaller than external files, but just as cacheable and manipulable (via CSS) as inline SVGs. Yet they also load faster than inline SVGs. 
 
-Black bold icons (5 pt stroke)
-![Screenshot of currently finished icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-bold.webp)
+I created the playground as a more environmentally friendly alternative to image previews, but it evolved into so much more. :)
+
+[Click here for previews of the existing sets...](https://codewordcreative.github.io/susty-icons/preview-variants.html)
+
+[...Or click here to explore what is possible with your own sprite file
+](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html) - different colours, sizes, and stroke widths, and different backgrounds for visual comparison.
+
+### Some general examples
+
 Black medium icons (3 pt stroke):
 ![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-medium.webp)
-Black thin icons (2 pt stroke):
-![Screenshot of currently finished thin icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-thin.webp)
 Black solid icons:
 ![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-black-solid.webp)
-Light bold icons (5 pt stroke)
-![Screenshot of currently finished light bold icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-bold.webp)
 Light medium icons (3 pt stroke)
 ![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-medium.webp)
-Light thin icons (2 pt stroke)
-![Screenshot of currently finished light, 2-point-thickness icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-thin.webp)
 Light solid icons:
 ![Screenshot of currently finished solid icons](https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/Sustyicons-light-solid.webp)
 
-## Most recent update (30 May 2025):
+## Previous update (30 May 2025):
 I've upgraded my generation process, switching from Python to bash script to generate and organise new icons. It's now far more efficient and easy to create the variants. I will probably upload a version of the bash script itself for developers to use, just as soon as I can concentrate enough to add useful comments. :)
 
 I'm getting close to covering all the basics now, so I guess we are heading to an official v1 release. I've not promoted the icons at all yet, but already have some stars - thank you!
