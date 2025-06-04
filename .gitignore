@@ -12,3 +12,4 @@ README.md
 *.js
 deprecated/
 node_modules/
+*preview.html
