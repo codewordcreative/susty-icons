@@ -137,7 +137,7 @@
 <symbol id="selected" viewBox="0 0 128 128"><path d="M26 58 53 85l52-57M35 35H93V93H35Z"/></symbol>
 <symbol id="server-stack" viewBox="0 0 128 128"><path d="M15 15h98V45H15Zm86 15H88M31 26a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8" id="id3"/><use href="#id3" y="34"/><use href="#id3" y="68"/></symbol>
 <symbol id="server" viewBox="0 0 128 128"><path d="M15 15h98V41H15Zm86 13H88M31 22a1 1 90 000 11 1 1 90 000-11m21 0a1 1 90 000 11 1 1 90 000-11m21 0a1 1 90 000 11 1 1 90 000-11" id="id4"/><use href="#id4" y="36"/><use href="#id4" y="72"/></symbol>
-<symbol id="settings" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="c"/><path d="M30 14V39m0 22v53M64 14V74m0 22v18M98 14V24m0 22v68"/><use href="#c"/><use href="#c" x="34" y="35"/><use href="#c" x="68" y="-15"/</symbol>
+<symbol id="settings" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="c"/><path d="M30 14V39m0 22v53M64 14V74m0 22v18M98 14V24m0 22v68"/><use href="#c"/><use href="#c" x="34" y="35"/><use href="#c" x="68" y="-15"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="speech-bubble" viewBox="0 0 128 128"><path d="M63 113a1 1 90 001-98C26 14 3 54 21 88l-6 25 26-6q10 6 22 6"/></symbol>
 <symbol id="sprout" viewBox="0 0 128 128"><path d="M24 113q40-40 80 0M64 93V63q0-5 5-13M23 26V36q2 25 26 26H59V52Q57 27 33 26H23M69 50H79q25-1 26-26V14H95Q71 15 69 40V50L90 27M38 40 59 62q4 2 5 8"/></symbol>
