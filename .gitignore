@@ -1,8 +1,6 @@
 *.pyc
 __pycache__/
 *.log
-LICENSE
-README.md
 *.log
 *.db
 *.db-journal
