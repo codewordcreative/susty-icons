@@ -1,6 +1,6 @@
 *.pyc
 __pycache__/
-*.log
+*.log	
 *.log
 *.db
 *.db-journal
@@ -11,3 +11,4 @@ __pycache__/
 deprecated/
 node_modules/
 *preview.html
+!docs/playground.js
