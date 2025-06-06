@@ -105,6 +105,7 @@
 <symbol id="less-than" viewBox="0 0 128 128"><path d="m96 32-64 32 64 32"/></symbol>
 <symbol id="letter" viewBox="0 0 128 128"><path d="M49 90H36ZH36m0-17H61M36 61H92m0-12H36M55 31H36m65 2L83 15m0 0V33h18v80H26V15Z"/></symbol>
 <symbol id="lightbulb-off" viewBox="0 0 128 128"><path d="M71 99V93q0-6 7-10A27 27 1 1050 83q7 4 7 10v6Zm-14 6H71m0 6H57m4 0q3 4 6 0"/></symbol>
+<symbol id="lightbulb-on" viewBox="0 0 128 128"><path d="M67 111q-3 4-6 0m-4 0H71m0-6H57m0-6V93q0-6-7-10a27 27 1 1128 0q-7 4-7 10v6ZM17 65h7m3-37 6 5M64 14v7m37 7-5 5m15 32h-7"/></symbol>
 <symbol id="link" viewBox="0 0 128 128"><path d="M57 64a20 20 90 0 0 29 6l18-20a20 20 90 0 0-31-26L55 44" id="id2"/><use href="#id2"/><use href="#id2" transform="rotate(180 64 64)"/></symbol>
 <symbol id="linkedin" viewBox="0 0 128 128"><path d="M111 112H90V80q0-14-10-14T70 80v32H51V50H69V60s6-10 20-10c12 0 22 10 22 26Zm-93 0H39V50H18ZM29 42a1 1 0 000-26 1 1 0 000 26Z"/></symbol>
 <symbol id="list" viewBox="0 0 128 128"><path d="M26 30V42H14V30Zm87 6H39M26 57V69H14V57Zm87 6H39M26 84V96H14V84Zm87 6H39"/></symbol>
