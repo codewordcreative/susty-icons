@@ -36,6 +36,7 @@
 <symbol id="calendar-date" viewBox="0 0 128 128"><path d="M51 25H77m7 0V35H77V15h7V25h29v88H15V25H44V15h7V35H44V25M15 47h98M54 54v59M74 54v59m20 0V54M34 113V54M15 69h98m0 15H15m0 15h98m0-45H15M77 87l14 9m0-9-14 9"/></symbol>
 <symbol id="calendar-plain" viewBox="0 0 128 128"><path d="M51 25H77m7 0V35H77V15h7V25h29v88H15V25H44V15h7V35H44V25M15 47h98"/></symbol>
 <symbol id="calendar" viewBox="0 0 128 128"><path d="M51 25H77m7 0V35H77V15h7V25h29v88H15V25H44V15h7V35H44V25M15 47h98M54 54v59M74 54v59m20 0V54M34 113V54M15 69h98m0 15H15m0 15h98m0-45H15"/></symbol>
+<symbol id="car" viewBox="0 0 128 128"><path d="M26 39h77L91 22H37Zm73 24H83q-3 6 0 13h16q2-7 0-13zM45 76q2-7 0-13H29q-3 6 0 13Zm65-26q5 0 5 6v33q0 3-3 3H16q-3 0-3-3V56q0-6 4-6Zm-92-4q-6 0-2-6l13-20q2-5 7-5h56q5 0 7 5l13 21q4 5-3 5zm4 46v10a1 1 0 0 0 21 0V92m63 0v10a1 1 0 0 1-21 0V92Z"/></symbol>
 <symbol id="cart-big" viewBox="0 0 128 128"><path d="M53 50V69m20 0V50m20 0V69m13 20H95a1 1 90 010 16 1 1 90 010-16H51a1 1 90 010 16 1 1 90 010-16H38a1 1 90 010-10M34 39h78l-4 40H38L34 39ZQ28 26 16 25"/></symbol>
 <symbol id="cart-small" viewBox="0 0 128 128"><path d="M16 27q13 0 15 14m0 0 8 40h66l7-40H31Zm8 40a1 1 90 000 10H50a6 6 90 101 0H94a6 6 90 101 0h11"/></symbol>
 <symbol id="certificate" viewBox="0 0 128 128"><circle cx="86" cy="58" r="15"/><path d="M14 30H114V99H14ZM31 49H63m0 17H31m0 17H55M74 67V89l12-5 12 5V67M78 60l5 5 12-9"/></symbol>
@@ -116,7 +117,7 @@
 <symbol id="medium" viewBox="0 0 128 128"><path d="M114 86v9h-3Q93 95 91 72V69q2-23 21-23h2v3h-2q-10 0-10 16h12v2H102c0 9 5 17 12 19ZM91 31V30H72L54 73 35 30H14v1q6 1 6 6V89q0 5-6 6H29q-6-1-6-6V40L47 95h1L72 39V88q0 6-5 7H91q-5-1-5-7V37q0-4 5-6Z"/></symbol>
 <symbol id="minus" viewBox="0 0 128 128"><path d="m32 64h64"/></symbol>
 <symbol id="monitor-activity" viewBox="0 0 128 128"><path d="M39 53h9l8-19L72 74l7-21H89M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
-<symbol id="monitor-busy" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM88 55a1 1 90 010-9 1 1 90 010 9m18 2-6-4-6 11-10-4-7 5m0 4h29V40H77ZM14 76H114m0-43H14ZM22 69H58V40H22ZM34 51l-6 4 6 4m8-12-4 16m8-4 6-4-6-4m24-6H65m0 10h5M65 65h5"/></symbol>
+<symbol id="monitor-busy" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM88 55a1 1 90 010-9 1 1 90 010 9m18 2-6-4-6 11-10-4-7 5m0 4h29V40H77ZM14 76H114m0-43H14ZM28 51l-6 4 6 4m8-14-4 20m8-6 6-4-6-4m27-6H56m0 10H67M56 65H67"/></symbol>
 <symbol id="monitor-certified" viewBox="0 0 128 128"><circle cx="64" cy="46" r="15"/><path d="M52 55V77l12-5 12 5V55M56 46l5 5 12-9M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
 <symbol id="monitor-tick" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM41 55l16 16 30-33"/></symbol>
 <symbol id="monitor" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
@@ -132,6 +133,8 @@
 <symbol id="pen" viewBox="0 0 128 128"><path d="M28 82 14 113 30 99a3 3 0 111 1L15 114l31-13 4-9L37 79Zm86-56q0-10-10-10L57 60Q44 65 40 77L52 89q13-3 18-16Z"/></symbol>
 <symbol id="pencil" viewBox="0 0 128 128"><path d="M23 87l18 18M23 87l-8 26 26-8 72-72q0-17-18-18Zm82-46L87 23M41 87 84 44"/></symbol>
 <symbol id="phone" viewBox="0 0 128 128"><path d="M48 49q7 25 32 32c11-11 11-11 22 0s11 11 0 22c-5 5-16 16-54-22C10 38 21 32 26 27c11-11 11-11 22 0s11 11 0 22"/></symbol>
+<symbol id="plane" viewBox="0 0 128 128"><path d="M73 49l38 25V84L73 71V98l14 9v7l-23-5-23 5v-7l14-9V71L17 84V74L55 49V31c0-22 18-22 18 0V49Z"/></symbol>
+<symbol id="plane2" viewBox="0 0 128 128"><path d="M91 51l10 49-8 7L74 68 53 89l4 18-6 5L37 90 16 76l5-5 18 4L60 54 20 34l8-7L77 37 91 23c17-17 31-3 14 14L91 51Z"/></symbol>
 <symbol id="planet-heart" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M82 110c-45-25 16-16 18-52q2-20 12-7M15 68c41 0 5-20 13-28q16-8-2-8m14-12q12 20 45-1M64 87c37-21 30-58 0-37-29-20-36 18 0 37"/></symbol>
 <symbol id="planet" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><circle cx="40" cy="86" r="7"/><path d="M82 110C16 40 86 80 96 64q1-10-15-14 7-22 31 1M15 68c41 0 5-20 13-28q16-8-2-8M40 20q12 20 45-1"/></symbol>
 <symbol id="plus" viewBox="0 0 128 128"><path d="m64 32v64M32 64h64"/></symbol>

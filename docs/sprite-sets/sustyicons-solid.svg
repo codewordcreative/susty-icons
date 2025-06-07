@@ -9,6 +9,7 @@
 <symbol id="bell-solid" viewBox="0 0 128 128"><path d="M98 79a1 1 90 010 15H30a1 1 90 010-15l2.5-41a35 35 90 0163 0ZM80 94A6 6 0 1148 94"/></symbol>
 <symbol id="bluesky-solid" viewBox="0 0 128 128"><path d="M111 21q4 1 0 40-4 15-29 12 29 7 18 25-24 28-36-13V60c19-30 36-43 47-39M17 21q-4 1 0 40 4 15 29 12-29 7-18 25 24 28 36-13V60m0 0C45 30 28 17 17 21"/></symbol>
 <symbol id="bookmark-solid" viewBox="0 0 128 128"><path d="M30 114 64 99l34 15V14H30V114Z"/></symbol>
+<symbol id="car-solid" viewBox="0 0 128 128"><path d="M91 51l10 49-8 7L74 68 53 89l4 18-6 5L37 90 16 76l5-5 18 4L60 54 20 34l8-7L77 37 91 23c17-17 31-3 14 14L91 51Z"/></symbol>
 <symbol id="cart-solid" viewBox="0 0 128 128"><path d="M43 81q-8 2-3 7h67v3H95a6 6 90 11-1 0H51a6 6 90 11-1 0H39a1 1 90 013-12ZM35 41h77l-7 40H40L31 41ZQ29 27 16 27v3q10 0 15 11"/></symbol>
 <symbol id="circle-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
 <symbol id="circle-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/></symbol>
@@ -52,6 +53,8 @@
 <symbol id="pen-solid" viewBox="0 0 128 128"><path d="M28 82 14 113 30 99a3 3 0 111 1L15 114l31-13 4-9L37 79Zm86-56q0-10-10-10L57 60Q44 65 40 77L52 89q13-3 18-16Z"/></symbol>
 <symbol id="pencil-solid" viewBox="0 0 128 128"><path d="M23 87l18 18 3-3L26 84Zl-8 26 26-8 72-72q0-17-18-18Zm81-45L86 24l3-3 18 18ZM41 87 84 44l-3-3L38 84Z"/></symbol>
 <symbol id="phone-solid" viewBox="0 0 128 128"><path d="M48 49q7 25 32 32c11-11 11-11 22 0s11 11 0 22c-5 5-16 16-54-22C10 38 21 32 26 27c11-11 11-11 22 0s11 11 0 22"/></symbol>
+<symbol id="plane-solid" viewBox="0 0 128 128"><path d="M73 49l38 25V84L73 71V98l14 9v7l-23-5-23 5v-7l14-9V71L17 84V74L55 49V31c0-22 18-22 18 0V49Z"/></symbol>
+<symbol id="plane2-solid" viewBox="0 0 128 128"><path d="M91 51l10 49-8 7L74 68 53 89l4 18-6 5L37 90 16 76l5-5 18 4L60 54 20 34l8-7L77 37 91 23c17-17 31-3 14 14L91 51Z"/></symbol>
 <symbol id="planet-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M82 110c-45-25 16-16 18-52q2-20 12-7M15 68c41 0 5-20 13-28q16-8-2-8m14-12q12 20 45-1"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
 <symbol id="poop-solid" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
 <symbol id="print-solid" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94ZM41 78H86m0 20H67M40 88H86M99 53h8v8H99Z"/><path d="M92 46V20H34V46M94 93v16H32V93" fill="none"/></symbol>
