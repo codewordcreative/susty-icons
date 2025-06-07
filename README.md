@@ -52,10 +52,10 @@ I'd be breaking a personal rule if I didn't mention this other option. This woul
 Colour and style are defined individually in the code. These are defaulted to pure black (#000). The viewbox is set to 128 x 128 to allow flexibility for more complex icons while supporting a common dimension (see the comments on mathematics below). The stroke width is set to 5. I’ve set fill to none (outline effect) and favoured a more rounded appearance to the lines. You can play with all of these variables as you choose.
 
 ### External vs. inline use
-Despite these being so small, external SVG files are recommended as they can be cached more easily and used across pages. There can be some sustainability advantages to inline SVGs in certain circumstances, for example when only used once on a page or in combination with certain animations, but that’s beyond the scope of this project. Note that CSS cannot be used to manipulate elements of SVGs directly unless they are inline, although any manipulation you can apply to an image will work (though filters and transforms in CSS can have an impact, too).
+Despite these being so small, external SVG files are recommended as they can be cached more easily and used across pages. There can be some sustainability advantages to inline SVGs in certain circumstances, for example when only used once on a page or in combination with certain animations, but tests show this only applies to optimised SVGs (like mine), and either way, that’s beyond the scope of this project. Note that CSS cannot be used to manipulate elements of SVGs directly unless they are inline OR in an external SVG sprite set (these are available under "docs/sprite-sets"). Any manipulation you can apply to an image will also work (though filters and transforms in CSS can have an impact, too).
 
 ### Accessibility
-Currently, these icons have no title attribute. Ideally, you would add one in appropriate to the icon's purpose in your interface. Alternatively, alt text can help.
+Currently, these icons have no title attribute. Ideally, you would add one in appropriate to the icon's purpose in your interface. Alternatively, alt text can help when using them as an image.
 
 ### Summary of terms
 This project uses an MIT licence. In short, reuse without attribution, even with modification, is fine in any personal or commercial project. Redistribution - read the licence for full details.
@@ -85,7 +85,7 @@ Excessive data and unnecessarily information lead to code bloat. As in, more dat
 The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon. Edit: Most likely this summer, when a fellow digital sustainability nerd and I have more time to get that data and put it all together. It's coming, though!
 
 ### "Controversial" choice, at least for me...
-I'm not putting the symbol inside <defs>. It can be read by modern browsers regardless and adds pointless bits. Better: I'll try to encourage colleagues at the W3C to update the standard. :)
+I'm not putting the symbol inside <defs>. It can be read by modern browsers regardless and adds pointless bits. Similarly, I'm not defining things as symbols before I reuse them with "use" again - the ID alone is enough.
 
 ### Why start with these?
 I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. I'm now adding more commonly used icons with the ambition of turning it into a full set.
@@ -94,7 +94,10 @@ I was inspired by a discussion on light, dark, and eco mode support for websites
 Pure black (#000) allows OLED monitors to completely cut power to those pixels. Green and red are more energy-efficient, while blue and white are worse. My own eco mode experiments use black backgrounds, green for text, and a lighter red for links. Red must usually be a bit brighter to still pass accessibility requirements. Use a [contrast checker](https://webaim.org/resources/contrastchecker/).
 
 #### By request: An example of my susty icons in a dark mode UI
-I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, the [Emoji Finder](https://codewordcreative.com/find-emojis.html) has a primitive dark/light/eco mode switcher.
+I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, you can find examples here:
+* the [Emoji Finder](https://codewordcreative.com/find-emojis.html) has a primitive dark/light/eco mode switcher.
+* a slightly better implementation is on the [preview page for existing sets](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html).
+* and probably the best implementation so far is on the [sprite preview playground](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html). I say best, because you can see how it fits into a responsive interface.
 
 For easy reuse, here's the text: 
 > Read me the way you want: light, dark, or low-energy eco mode.
@@ -120,7 +123,7 @@ When I launch the repo, I'll probably include a few different tone of voice opti
 
 
 ##### Implementation notes
-* While I appreciate colour-changing icon effects when and where they add value, I prefer key icons to be cacheable and avoid filters (the workaround) where able. That's why the buttons look the same on light and dark mode, only visibly changing on eco mode.
+* I made a couple of these before I realised I could use an external sprite sheet. As such, the buttons look the same on light and dark mode for some examples, only visibly changing on eco mode. That's because I wanted to prioritise making them cacheable.
 * I've not yet worked out if the rendering impact of adding a semi-transparent overlay (or making a photo semi-transparent) and resulting darker page background would offset the impact of having a slightly brighter background image or not. As a result, the page background doesn't change on dark mode.
 * Dark mode uses purple text as a satisfactory option that still appeals to the client while making a massive difference in the background areas. Some eco modes even use pure white text. The most efficient is Fallout-style green, which I'll probably use on my own site when I do it. Red is marginally more efficient, but it usually has to be pretty bright to avoid accessibility issues.
 * The (i) button opens up that tooltip you see. Clicking on it closes it again.
@@ -152,7 +155,7 @@ I’m very new to Github, so bear with me if I do things in a strange way.
 It's low tech, because it needs the human eye. I use SVG Viewer (https://www.svgviewer.dev/) to see how I am doing and guide my adjustments. I insert my template (1template.svg) then play with the path using the SVG path editor (https://yqnn.github.io/svg-path-editor/) to ensure it's centred in a 128 x 128 grid with 12-point spacing. 
 
 ### Approaches
-You can use the SVG path editor to clean up existing paths, play with size and rotation, round, and optimise. This is especially useful when ensuring a good fit in the grid. In general, you can go through the list of things I criticised in normal icons above. Cutting out unnecesary points. Working out how you can combine curves. Replacing complex curves with quadratic Bezier curves. Replacing straight 'curved' lines with curved lines. And when appropriate, also using reusable shapes and specific built-in shapes, such as circles. Try to favour absolute paths. The optimise function should be performed last. But note that it won't do more than the maths - and sometimes you'll need to check or correct how something rounded. Lastly, be sure to not include attributes you don't need in that design. As in, I use stroke-linecap="round" stroke-linejoin="round" in my icons, but not all icons need both to look correct.
+You can use the SVG path editor to clean up existing paths, play with size and rotation, round, and optimise. This is especially useful when ensuring a good fit in the grid. In general, you can go through the list of things I criticised in normal icons above. Cutting out unnecesary points. Working out how you can combine curves. Replacing complex curves with quadratic Bezier curves. Replacing straight 'curved' lines with curved lines. And when appropriate, also using reusable shapes and specific built-in shapes, such as circles. Try to favour absolute paths. The optimise function should be performed last. But note that it won't do more than the maths - and sometimes you'll need to check or correct how something rounded. Lastly, be sure to not include attributes you don't need in that design. As in, I use stroke-linecap="round" stroke-linejoin="round" in my icons, but not all icons need both to look correct. Equally, some solid icons do still benefit from them.
 
 ### Warnings
 Other tools will manipulate the icons when imported and exported again. On simpler icons, the impact may not be too big. My colleague and friend Nick Lewis tested the leaf icon (very simple) and the Github icon on Figma. The points themselves were changed in both cases, but the impact was minimal on the leaf. On the more detailed Github icon, however, there was a substantial increase in file size.
