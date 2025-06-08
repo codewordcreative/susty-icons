@@ -64,6 +64,7 @@
 <symbol id="cloud" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
 <symbol id="cog" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
 <symbol id="computer-pc" viewBox="0 0 128 128"><path d="M101 38h13V97H89V81m12 0H14V30h87ZM62 81v9H80v7H37V90H55V81Z"/></symbol>
+<symbol id="conversation" viewBox="0 0 128 128"><path d="M37 52H69q5 0 5-5V24q0-6-6-6H21q-5 0-5 5V47q0 5 5 5h7v8ZM24 29H49m7 0H66M24 41H42m7 0H66m24 59H58q-5 0-5-5V72q0-6 6-6h48q5 0 5 5V95q0 5-5 5h-7v8Zm13-23H78m-7 0H61m42 12H91m-7 0H61"/></symbol>
 <symbol id="copy" viewBox="0 0 128 128"><path d="M102 42 82 24m0 0V42h20v71H37V24Zm1-9H27v92"/></symbol>
 <symbol id="deaf" viewBox="0 0 128 128"><path d="M34 92a1 1 90 0037 5c1-29 26-28 26-50A1 1 90 0031 47m48-6Q61 17 45 51q33-8 23 13Q55 94 41 74M16 112l96-96"/></symbol>
 <symbol id="discord" viewBox="0 0 128 128"><path d="M44 92l-5 11L18 92q-4-2-4-8 1-30 13-49 2-3 6-5l16-4 4 7q11-3 22 0l4-7 16 5q4 1 6 5 12 19 13 49 0 6-4 8L89 104 84 93M38 88q26 14 54 0M47 77c-11 0-11-20 0-20s11 20 0 20Zm34 0c-11 0-11-20 0-20s11 20 0 20Z"/></symbol>
@@ -121,6 +122,8 @@
 <symbol id="map" viewBox="0 0 128 128"><path d="m14 106 34-13 32 13 34-13V20l-34 13-32-13-34 13zm34-86v73m32-60v73"/></symbol>
 <symbol id="mastodon" viewBox="0 0 128 128"><path d="M96 76V50q0-17-16-18-11-1-16 9-5-10-17-9-16 1-16 18V76H44V50q0-8 7-8t7 11V67H69V52q0-10 7-10t7 7V76Zm14-43q3 23 1 43-1 14-38 15-19-1-25-3 0 9 11 15 13 4 28 0v7q-23 5-44 0-17-6-23-25-7-34 0-52 3-12 17-14 26-5 56-1 16 2 17 15Z"/></symbol>
 <symbol id="medium" viewBox="0 0 128 128"><path d="M114 86v9h-3Q93 95 91 72V69q2-23 21-23h2v3h-2q-10 0-10 16h12v2H102c0 9 5 17 12 19ZM91 31V30H72L54 73 35 30H14v1q6 1 6 6V89q0 5-6 6H29q-6-1-6-6V40L47 95h1L72 39V88q0 6-5 7H91q-5-1-5-7V37q0-4 5-6Z"/></symbol>
+<symbol id="message" viewBox="0 0 128 128"><path d="M50 86h54q9 0 9-9V38q0-10-10-10H23q-9 0-9 9V77q0 9 9 9H35v14Z"/></symbol>
+<symbol id="message2" viewBox="0 0 128 128"><path d="M50 86h54q9 0 9-9V38q0-10-10-10H23q-9 0-9 9V77q0 9 9 9H35v14ZM28 47H70m12 0H99M28 67H60Zm44 0H99"/></symbol>
 <symbol id="minus" viewBox="0 0 128 128"><path d="m32 64h64"/></symbol>
 <symbol id="monitor-activity" viewBox="0 0 128 128"><path d="M39 53h9l8-19L72 74l7-21H89M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
 <symbol id="monitor-busy" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM88 55a1 1 90 010-9 1 1 90 010 9m18 2-6-4-6 11-10-4-7 5m0 4h29V40H77ZM14 76H114m0-43H14ZM28 51l-6 4 6 4m8-14-4 20m8-6 6-4-6-4m27-6H56m0 10H67M56 65H67"/></symbol>

@@ -45,6 +45,7 @@
 <symbol id="location-solid" viewBox="0 0 128 128"><path d="M64 14C42 14 24 32 24 54q0 13 9 23l31 37L95 77q9-10 9-23c0-22-18-40-40-40Zm0 25a1 1 0 000 28 1 1 0 000-28"/></symbol>
 <symbol id="mastodon-solid" viewBox="0 0 128 128"><path d="M96 76V50q0-17-16-18-11-1-16 9-5-10-17-9-16 1-16 18V76H44V50q0-8 7-8t7 11V67H69V52q0-10 7-10t7 7V76Zm14-43q3 23 1 43-1 14-38 15-19-1-25-3 0 9 11 15 13 4 28 0v7q-23 5-44 0-17-6-23-25-7-34 0-52 3-12 17-14 26-5 56-1 16 2 17 15Z"/></symbol>
 <symbol id="medium-solid" viewBox="0 0 128 128"><path d="M114 86v9h-3Q93 95 91 72V69q2-23 21-23h2v3h-2q-10 0-10 16h12v2H102c0 9 5 17 12 19ZM91 31V30H72L54 73 35 30H14v1q6 1 6 6V89q0 5-6 6H29q-6-1-6-6V40L47 95h1L72 39V88q0 6-5 7H91q-5-1-5-7V37q0-4 5-6Z"/></symbol>
+<symbol id="message-solid" viewBox="0 0 128 128"><path d="M50 86h54q9 0 9-9V38q0-10-10-10H23q-9 0-9 9V77q0 9 9 9H35v14Z"/></symbol>
 <symbol id="monitor-solid" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
 <symbol id="moon-rounded-solid" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id3"/><use href="#id3" x="24" y="-24"/><path d="m104 95A50 49 35 1150 16a54 50 35 0055 78z"/></symbol>
 <symbol id="moon-solid" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id4"/><use href="#id4" x="24" y="-24"/><path d="m104 95A50 49 35 1150 16a54 50 35 0055 78z"/></symbol>
