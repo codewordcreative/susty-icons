@@ -17,6 +17,7 @@
 <symbol id="circle-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
 <symbol id="circle-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/></symbol>
 <symbol id="cloud-solid" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
+<symbol id="coffee-cup-solid" viewBox="0 0 128 128"><path d="M83 48H27V89Q27 113 45 113H65Q83 113 83 86 118 55 83 55ZM83 61Q106 60 83 78ZM39 38C43 31 34 25 39 15M55 15C50 23 59 31 55 38M71 38C75 31 65 25 71 15"/></symbol>
 <symbol id="cog-solid" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
 <symbol id="discord-solid" viewBox="0 0 128 128"><path d="M36 87l9 5-6 12L18 92q-4-2-4-8 1-30 13-49 2-4 6-5l16-4 4 7q11-3 22 0l4-7 16 5q4 1 6 5 12 19 13 49 0 6-4 8L89 104 83 92l9-5-1-1q-27 14-54 0ZM47 77c-11 0-11-20 0-20s11 20 0 20Zm34 0c-11 0-11-20 0-20s11 20 0 20Z"/></symbol>
 <symbol id="document-paper-solid" viewBox="0 0 128 128"><path d="M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
@@ -54,6 +55,7 @@
 <symbol id="moon-solid" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id4"/><use href="#id4" x="24" y="-24"/><path d="m104 95A50 49 35 1150 16a54 50 35 0055 78z"/></symbol>
 <symbol id="mute-solid" viewBox="0 0 128 128"><path d="M66 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l28 26q5 4 5-1ZM82 45 95 58l13-13 6 6-13 13 13 14-6 6L95 70 82 84l-6-6L89 64 76 51Z"/></symbol>
 <symbol id="new-starburst-solid" viewBox="0 0 128 128"><path d="M95 19q3 13 16 16-13 3-16 16-3-13-16-16 13-3 16-16M60 21q9 35 44 44-35 8-44 44-8-36-44-44 36-8 44-44"/></symbol>
+<symbol id="no-ai-solid" viewBox="0 0 128 128"><path d="M45 78l4-3H46Zm3-9h8l1-1-4-16ZM87 41V33H80V47L63 62 54 33H51L36 85l-9 8A20 20 0 1199 31ZM38 92h3l1-3L59 75h1l7 17h7L65 69 80 55V92h7V50l16-14A20 20 0 1132 97Z"/></symbol>
 <symbol id="paintbrush-solid" viewBox="0 0 128 128"><path d="M43 76Q29 76 25 92s-2 15-11 22c0 0 21 1 28-3q18-10 14-23L43 76 56 88m56-63q7-15-8-9L57 57q-7 0-7 9L65 80q8 0 8-8ZM49 68 63 81l-6 5L45 75Z"/></symbol>
 <symbol id="pen-solid" viewBox="0 0 128 128"><path d="M28 82 14 113 30 99a3 3 0 111 1L15 114l31-13 4-9L37 79Zm86-56q0-10-10-10L57 60Q44 65 40 77L52 89q13-3 18-16Z"/></symbol>
 <symbol id="pencil-solid" viewBox="0 0 128 128"><path d="M23 87l18 18 3-3L26 84Zl-8 26 26-8 72-72q0-17-18-18Zm81-45L86 24l3-3 18 18ZM41 87 84 44l-3-3L38 84Z"/></symbol>

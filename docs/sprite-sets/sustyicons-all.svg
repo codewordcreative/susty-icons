@@ -84,6 +84,8 @@
 <symbol id="close" viewBox="0 0 128 128"><path d="M86 86 41 41m1 45L87 41"/></symbol>
 <symbol id="cloud-solid" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
 <symbol id="cloud" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
+<symbol id="coffee-cup-solid" viewBox="0 0 128 128"><path d="M83 48H27V89Q27 113 45 113H65Q83 113 83 86 118 55 83 55ZM83 61Q106 60 83 78ZM39 38C43 31 34 25 39 15M55 15C50 23 59 31 55 38M71 38C75 31 65 25 71 15"/></symbol>
+<symbol id="coffee-cup" viewBox="0 0 128 128"><path d="M83 48H27V89q0 24 18 24H65q18 0 18-25 38-33 0-35Zm0 14q20 0 0 14ZM39 38c4-7-5-13 0-23m16 0c-5 8 4 16 0 23m16 0c4-7-6-13 0-23"/></symbol>
 <symbol id="cog-solid" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
 <symbol id="cog" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
 <symbol id="computer-pc" viewBox="0 0 128 128"><path d="M101 38h13V97H89V81m12 0H14V30h87ZM62 81v9H80v7H37V90H55V81Z"/></symbol>
@@ -194,6 +196,8 @@
 <symbol id="mute" viewBox="0 0 128 128"><path d="M66 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l28 26q5 4 5-1ZM82 45 95 58l13-13 6 6-13 13 13 14-6 6L95 70 82 84l-6-6L89 64 76 51Z"/></symbol>
 <symbol id="new-starburst-solid" viewBox="0 0 128 128"><path d="M95 19q3 13 16 16-13 3-16 16-3-13-16-16 13-3 16-16M60 21q9 35 44 44-35 8-44 44-8-36-44-44 36-8 44-44"/></symbol>
 <symbol id="new-starburst" viewBox="0 0 128 128"><path d="M95 19q3 13 16 16-13 3-16 16-3-13-16-16 13-3 16-16M60 21q9 35 44 44-35 8-44 44-8-36-44-44 36-8 44-44"/></symbol>
+<symbol id="no-ai-solid" viewBox="0 0 128 128"><path d="M45 78l4-3H46Zm3-9h8l1-1-4-16ZM87 41V33H80V47L63 62 54 33H51L36 85l-9 8A20 20 0 1199 31ZM38 92h3l1-3L59 75h1l7 17h7L65 69 80 55V92h7V50l16-14A20 20 0 1132 97Z"/></symbol>
+<symbol id="no-ai" viewBox="0 0 128 128"><path d="M45 78l4-3H46Zm3-9h8l1-1-4-16ZM87 41V33H80V47L63 62 54 33H51L36 85l-9 8A20 20 0 1199 31ZM38 92h3l1-3L59 75h1l7 17h7L65 69 80 55V92h7V50l16-14A20 20 0 1132 97Z"/></symbol>
 <symbol id="note" viewBox="0 0 128 128"><path d="M14 30H114V99H14ZM31 49H97m0 17H31m0 17H67"/></symbol>
 <symbol id="open-folder" viewBox="0 0 128 128"><path d="M16 102l7-57h91l-9 57H16L14 26H41l10 9h50l1 10"/></symbol>
 <symbol id="origami" viewBox="0 0 128 128"><path d="M36 19 14 36V47H36m0 27L77 30h37L64 86ZV19L61 47m3 39 25 24V58"/></symbol>
