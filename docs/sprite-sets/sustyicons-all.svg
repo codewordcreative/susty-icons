@@ -246,8 +246,8 @@
 <symbol id="settings-solid" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="id14"/><path d="M30 14V114M64 14V114M98 14V114"/><use href="#id14"/><use href="#id14" x="34" y="35"/><use href="#id14" x="68" y="-15"/></symbol>
 <symbol id="settings" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="id15"/><path d="M30 14V39m0 22v53M64 14V74m0 22v18M98 14V24m0 22v68"/><use href="#id15"/><use href="#id15" x="34" y="35"/><use href="#id15" x="68" y="-15"/></symbol>
 <symbol id="share-link" viewBox="0 0 128 128"><path d="M113 68V15H60m53 0L37 91M57 27H15v86h86V71"/></symbol>
-<symbol id="share-solid" viewBox="0 0 128 128"><path d="M40 69 87 99a13 13 90 102-6M87 29a13 13 90 112 6L44 64 89 93M87 29 40 59a13 13 0 100 10"/></symbol>
-<symbol id="share" viewBox="0 0 128 128"><path d="M40 69 87 99a13 13 90 102-6M87 29a13 13 90 112 6L44 64 89 93M87 29 40 59a13 13 0 100 10"/></symbol>
+<symbol id="share-solid" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
+<symbol id="share" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield-solid" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="smartphone" viewBox="0 0 128 128"><path d="M42 14q-4 0-4 4v92q0 4 4 4H86q4 0 4-4V18q0-4-4-4ZM38 24H90m0 71H38m26 6a1 1 0 000 7 1 1 0 000-7"/></symbol>
