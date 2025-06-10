@@ -133,6 +133,7 @@
 <symbol id="monitor-activity" viewBox="0 0 128 128"><path d="M39 53h9l8-19L72 74l7-21H89M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
 <symbol id="monitor-busy" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM88 55a1 1 90 010-9 1 1 90 010 9m18 2-6-4-6 11-10-4-7 5m0 4h29V40H77ZM14 76H114m0-43H14ZM28 51l-6 4 6 4m8-14-4 20m8-6 6-4-6-4m27-6H56m0 10H67M56 65H67"/></symbol>
 <symbol id="monitor-certified" viewBox="0 0 128 128"><circle cx="64" cy="46" r="15"/><path d="M52 55V77l12-5 12 5V55M56 46l5 5 12-9M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
+<symbol id="monitor-search" viewBox="0 0 128 128"><path d="M22 33V76h84V33Zm92 51H14V25H114ZM70 84q-1 10 14 16v2H44v-2q15-6 14-16ZM61 43H87c5 0 5 7 0 7H61c-5 0-5-7 0-7M44 49l4 3Za1 1 0 00-8-6 1 1 0 008 6ZM35 60H91m0 7H35"/></symbol>
 <symbol id="monitor-tick" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM41 55l16 16 30-33"/></symbol>
 <symbol id="monitor" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
 <symbol id="moon" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id4"/><use href="#id4" x="24" y="-24"/><path d="m104 95A50 49 35 1150 16a54 50 35 0055 78z"/></symbol>
@@ -169,6 +170,8 @@
 <symbol id="server-stack" viewBox="0 0 128 128"><path d="M15 15h98V45H15Zm86 15H88M31 26a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8" id="id5"/><use href="#id5" y="34"/><use href="#id5" y="68"/></symbol>
 <symbol id="server" viewBox="0 0 128 128"><path d="M15 15h98V41H15Zm86 13H88M31 22a1 1 90 000 11 1 1 90 000-11m21 0a1 1 90 000 11 1 1 90 000-11m21 0a1 1 90 000 11 1 1 90 000-11" id="id6"/><use href="#id6" y="36"/><use href="#id6" y="72"/></symbol>
 <symbol id="settings" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="id7"/><path d="M30 14V39m0 22v53M64 14V74m0 22v18M98 14V24m0 22v68"/><use href="#id7"/><use href="#id7" x="34" y="35"/><use href="#id7" x="68" y="-15"/></symbol>
+<symbol id="share-link" viewBox="0 0 128 128"><path d="M113 68V15H60m53 0L37 91M57 27H15v86h86V71"/></symbol>
+<symbol id="share" viewBox="0 0 128 128"><path d="M40 69 87 99a13 13 90 102-6M87 29a13 13 90 112 6L44 64 89 93M87 29 40 59a13 13 0 100 10"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="smartphone" viewBox="0 0 128 128"><path d="M42 14q-4 0-4 4v92q0 4 4 4H86q4 0 4-4V18q0-4-4-4ZM38 24H90m0 71H38m26 6a1 1 0 000 7 1 1 0 000-7"/></symbol>
 <symbol id="smartphone2" viewBox="0 0 128 128"><path d="M42 14q-4 0-4 4v92q0 4 4 4H86q4 0 4-4V18q0-4-4-4Zm22 87a1 1 0 000 7 1 1 0 000-7"/></symbol>
