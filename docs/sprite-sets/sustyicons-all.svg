@@ -21,6 +21,7 @@
 <symbol id="arrow-up-right" viewBox="0 0 128 128"><path d="m103 80V25H48m55 0-79 79"/></symbol>
 <symbol id="arrow-up" viewBox="0 0 128 128"><path d="m64 113V15M25 54l39-39 39 39"/></symbol>
 <symbol id="arrow-up2" viewBox="0 0 128 128"><path d="m24 83 40-41 40 41"/></symbol>
+<symbol id="asterisk" viewBox="0 0 128 128"><path d="M64 20V64m0 0 42-14M64 64l26 36m-26-36-26 36M64 64 22 50"/></symbol>
 <symbol id="audio-solid" viewBox="0 0 128 128"><path d="M66 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l28 26q5 4 5-1Zm33 5-5 5q33 36 0 72l5 5q38-41 0-82ZM82 39l-5 5q21 20 0 40l5 5q25-25 0-50Z"/></symbol>
 <symbol id="audio" viewBox="0 0 128 128"><path d="M63 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l26 27q4 4 4-1Zm30 5-5 5q36 36 0 72l5 5q42-41 0-82ZM79 39l-5 5q19 20 0 40l5 5q23-25 0-50Z"/></symbol>
 <symbol id="back-arrow-solid" viewBox="0 0 128 128"><path d="m55 49V26L15 64l40 37V76m0-27q56 0 58 53-25-39-58-26"/></symbol>
@@ -138,6 +139,7 @@
 <symbol id="github-solid" viewBox="0 0 128 128"><path d="M75 114V96q0-5-5-7 29-7 19-38 2-10 0-14-5 0-14 5-12-5-23 0-10-5-14-5-2 5 0 14-10 31 19 38-5 2-5 7-10 2-14-5-3-5-10-5-5 1 3 6c5 3 3 13 22 12v10m0 0a50 50 90 1 1 22 0"/></symbol>
 <symbol id="github" viewBox="0 0 128 128"><path d="M75 114V96q0-5-5-7 29-7 19-38 2-10 0-14-5 0-14 5-12-5-23 0-10-5-14-5-2 5 0 14-10 31 19 38-5 2-5 7-10 2-14-5-3-5-10-5-5 1 3 6c5 3 3 13 22 12v10m0 0a50 50 90 1 1 22 0"/></symbol>
 <symbol id="globe" viewBox="0 0 128 128"><path d="M114 64A50 50 0 1014 64a50 50 0 10100 0H14m8-27h84m0 54H22m36 22Q14 64 58 15m12 0q44 49 0 98"/></symbol>
+<symbol id="globe2" viewBox="0 0 128 128"><path d="M64 14a1 1 0 010 99 1 1 0 010-99C54 14 43 36 44 64s9 49 20 49m0-99c11 0 20 22 20 50s-9 49-20 49M15 64h98"/></symbol>
 <symbol id="greater-than" viewBox="0 0 128 128"><path d="M32 32 L96 64 L32 96"/></symbol>
 <symbol id="hamburger" viewBox="0 0 128 128"><path d="M16 64h96m0 27H16m0-54h96"/></symbol>
 <symbol id="hamburger2" viewBox="0 0 128 128"><path d="M22 64h84m0 27H22m0-54h84"/></symbol>
