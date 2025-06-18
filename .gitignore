@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+*.log	
+*.log
+*.db
+*.db-journal
+*.py
+*.sh
+*.json
+*.js
+deprecated/
+node_modules/
+*preview.html
+!docs/playground.js
+.cache
+*.txt
