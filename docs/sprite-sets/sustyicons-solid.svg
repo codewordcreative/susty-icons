@@ -34,6 +34,9 @@
 <symbol id="email-rounded-solid" viewBox="0 0 128 128"><path d="M64 87l48-52V99H16V35Zm0-12 42-45H23Z"/></symbol>
 <symbol id="email-solid" viewBox="0 0 128 128"><path d="M64 87l48-52V99H16V35Zm0-12 42-45H23Z"/></symbol>
 <symbol id="facebook-solid" viewBox="0 0 128 128"><path d="M69 70v43H51V70H37V52H51V37s0-22 22-22H87V34H77c-4 0-7 4-7 7V52H87L84 70Z"/></symbol>
+<symbol id="flag-pointy-solid" viewBox="0 0 128 128"><path d="M27 71h74L89 43l12-28H27v99"/></symbol>
+<symbol id="flag-solid" viewBox="0 0 128 128"><path d="M27 71h74V15H27v99"/></symbol>
+<symbol id="flag-wavy-solid" viewBox="0 0 128 128"><path d="M27 69c33 8 49-6 74 0V17c-22-9-41 6-74-1v96"/></symbol>
 <symbol id="flower-solid" viewBox="0 0 128 128"><path d="M64 39q30-53 19 7 55-9 7 18 48 36-7 18 11 60-18 7-30 53-18-7-57 18-8-18-49-28 7-18-12-60 18-7Za1 1 90 001 50A1 1 90 0064 39"/></symbol>
 <symbol id="folder-solid" viewBox="0 0 128 128"><path d="M115 103H14V25H46L57 36h58Z"/></symbol>
 <symbol id="forward-arrow-solid" viewBox="0 0 128 128"><path d="m73 49V26l40 38-40 37V76m0-27q-56 0-58 53 25-39 58-26"/></symbol>
