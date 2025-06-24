@@ -1,4 +1,4 @@
-### A work in progress before initial release: Currently 262 outline icons including some variations of the same icon idea, and 117 solid variants.
+### A work in progress before initial release: Currently 274 outline icons including some variations of the same icon idea, and 122 solid variants.
 
 ## Major update: 4 June 2025:
 [THE PLAYGROUND IS OPEN!](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html) Or, more seriously speaking, I've created a tool I'm genuinely proud of! I'm calling it the Susty Icon CSS Playground. What makes it so cool? Well... It's designed to work in concert with the new SVG sprite setup. Apparently it's not commonly done, since it didn't used to work very well... But external SVG sprite files DO work these days, and you can achieve some great sustainability, usability, and performance returns with them: they're smaller than external files, but just as cacheable and manipulable (via CSS) as inline SVGs. Yet they also load faster than inline SVGs. 
