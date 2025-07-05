@@ -18,6 +18,7 @@
 <symbol id="arrow-right" viewBox="0 0 128 128"><path d="M15 64h98M74 25l39 39-39 39"/></symbol>
 <symbol id="arrow-right2" viewBox="0 0 128 128"><path d="m45 24 41 40-41 40"/></symbol>
 <symbol id="arrow-sync" viewBox="0 0 128 128"><path d="M45 35H29V19m0 16c39-38 97 4 74 47M82 91h16v16m0-16C67 132 0 97 24 44"/></symbol>
+<symbol id="arrow-undo-restore" viewBox="0 0 128 128"><path d="M20 65a44 44 0 108-27m0-17V38H44v"/></symbol>
 <symbol id="arrow-up-left" viewBox="0 0 128 128"><path d="m25 80V25h55m-55 0 79 79"/></symbol>
 <symbol id="arrow-up-right" viewBox="0 0 128 128"><path d="m103 80V25H48m55 0-79 79"/></symbol>
 <symbol id="arrow-up" viewBox="0 0 128 128"><path d="m64 113V15M25 54l39-39 39 39"/></symbol>
@@ -96,6 +97,7 @@
 <symbol id="divided-by" viewBox="0 0 128 128"><path d="M25 73V55h78V73ZM64 85a1 1 90 010 22 1 1 90 010-22m0-42a1 1 0 000-22 1 1 0 000 22"/></symbol>
 <symbol id="document-paper" viewBox="0 0 128 128"><path d="M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
 <symbol id="download" viewBox="0 0 128 128"><path d="m23 73v36h82V73M64 21v71m28-28-28 28-27-28"/></symbol>
+<symbol id="drop-water" viewBox="0 0 128 128"><path d="M64 14C41 44 16 86 43 106q21 15 42 0c27-20 2-62-21-92Z"/></symbol>
 <symbol id="ear" viewBox="0 0 128 128"><path d="M34 92a1 1 90 0037 5c1-29 26-28 26-50A1 1 90 0031 47m48-6Q61 17 45 51q33-8 23 13Q55 94 41 74"/></symbol>
 <symbol id="earth" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M49 22s-5-3 0-5Zm5-7q2 8-3 11-5 4 5 4 2 5 7 5 7 0 7-5 2-1 5 0s0 4 1 4q4 4 4 7 1 4-7 4c-6 0-7-7-14-9q-6 1-9 3-11 0-10 8c-2 8-3 7 1 11s9 1 15 16 2 8 5 20c1 3 4 3 5 5q2 1 3 0c2-1 3-2 5-5q6-7 6-10V75c0-3 12-10 10-12q-8-10-2-5c6 7 7-4 7-8q4-1 7 0 4 13 6 3c2-3 2-3 4-1M15 68c14 2 3 9 4 18"/></symbol>
 <symbol id="eco-battery" viewBox="0 0 128 128"><path d="M33 31H50V18Q64 13 78 18V31H96V113H33ZM42 85C55 76 68 67 74 54M52 78C47 75 32 59 82 38 96 72 64 84 52 78ZM52 91H42V105H52M42 98H51M67 91H64A1 1 0 0064 105H67M80 91A1 1 0 0080 105 1 1 0 0080 91"/></symbol>
@@ -114,6 +116,7 @@
 <symbol id="flag-pointy" viewBox="0 0 128 128"><path d="M27 71h74L89 43l12-28H27v99"/></symbol>
 <symbol id="flag-wavy" viewBox="0 0 128 128"><path d="M27 69c33 8 49-6 74 0V17c-22-9-41 6-74-1v96"/></symbol>
 <symbol id="flag" viewBox="0 0 128 128"><path d="M27 71h74V15H27v99"/></symbol>
+<symbol id="flame" viewBox="0 0 128 128"><path d="M55 15c8 7 20 65 28 35q27 53-9 63c4-32-7-27-12-43q-27 24-7 43C3 90 66 46 55 15Z"/></symbol>
 <symbol id="flower" viewBox="0 0 128 128"><path d="M64 39q30-53 19 7 55-9 7 18 48 36-7 18 11 60-18 7-30 53-18-7-57 18-8-18-49-28 7-18-12-60 18-7Za1 1 90 001 50A1 1 90 0064 39"/></symbol>
 <symbol id="folder" viewBox="0 0 128 128"><path d="M115 103H14V25H46L57 36h58Z"/></symbol>
 <symbol id="forbidden" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="m30 30 68 68"/></symbol>
