@@ -20,10 +20,13 @@
 <symbol id="arrow-path" viewBox="0 0 128 128"><path d="M14 30q94-51 16 60-24 47 84 2L97 84m9 25 8-17"/></symbol>
 <symbol id="arrow-right" viewBox="0 0 128 128"><path d="M15 64h98M74 25l39 39-39 39"/></symbol>
 <symbol id="arrow-right2" viewBox="0 0 128 128"><path d="m45 24 41 40-41 40"/></symbol>
+<symbol id="arrow-sync" viewBox="0 0 128 128"><path d="M45 35H29V19m0 16c39-38 97 4 74 47M82 91h16v16m0-16C67 132 0 97 24 44"/></symbol>
 <symbol id="arrow-up-left" viewBox="0 0 128 128"><path d="m25 80V25h55m-55 0 79 79"/></symbol>
 <symbol id="arrow-up-right" viewBox="0 0 128 128"><path d="m103 80V25H48m55 0-79 79"/></symbol>
 <symbol id="arrow-up" viewBox="0 0 128 128"><path d="m64 113V15M25 54l39-39 39 39"/></symbol>
 <symbol id="arrow-up2" viewBox="0 0 128 128"><path d="m24 83 40-41 40 41"/></symbol>
+<symbol id="arrow-update-redo" viewBox="0 0 128 128"><path d="M37 45V29H20m17 0a44 44 90 1027-9"/></symbol>
+<symbol id="arrow-update" viewBox="0 0 128 128"><path d="M83 35H99V19m0 16C60-3 2 39 25 82m21 9H30v16m0-16c31 41 98 6 74-47"/></symbol>
 <symbol id="asterisk" viewBox="0 0 128 128"><path d="M64 20V64m0 0 42-14M64 64l26 36m-26-36-26 36M64 64 22 50"/></symbol>
 <symbol id="audio-solid" viewBox="0 0 128 128"><path d="M66 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l28 26q5 4 5-1Zm33 5-5 5q33 36 0 72l5 5q38-41 0-82ZM82 39l-5 5q21 20 0 40l5 5q25-25 0-50Z"/></symbol>
 <symbol id="audio" viewBox="0 0 128 128"><path d="M63 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l26 27q4 4 4-1Zm30 5-5 5q36 36 0 72l5 5q42-41 0-82ZM79 39l-5 5q19 20 0 40l5 5q23-25 0-50Z"/></symbol>
