@@ -90,7 +90,7 @@
 <symbol id="print-solid" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94ZM41 78H86m0 20H67M40 88H86M99 53h8v8H99Z"/><path d="M92 46V20H34V46M94 93v16H32V93" fill="none"/></symbol>
 <symbol id="puzzle-solid" viewBox="0 0 128 128"><path d="M93 31q-7 0-7-7A11 11 90 1064 24q0 7-7 7H38q-7 0-7 7V51q0 7-7 7a11 11 90 100 22q7 0 7 7v20q0 7 7 7H57q7 0 7-7a11 11 90 1122 0q0 7 7 7h14q7 0 7-7V88q0-7-7-7a11 11 90 110-22q7 0 7-7V38q0-7-7-7Z"/></symbol>
 <symbol id="quote-close-solid" viewBox="0 0 128 128"><path d="M58 41q8 46-28 61-13 4-2-4Q50 82 47 63 22 71 17 51T32 26 58 41z" id="id8"/><use href="#id8" x="52"/></symbol>
-<symbol id="quote-open-solid" viewBox="0 0 128 128"><path d="M18 41q-8 46 28 61 13 4 2-4Q26 82 29 63q25 8 30-12T44 26 18 41" id="id9"/><use href="#id9" x="52"/></symbol>
+<symbol id="quote-open-solid" viewBox="0 0 128 128"><path d="M18 87q6 20 26 15T59 77 29 65Q26 46 48 30q11-8-2-4Q10 41 18 87" id="id9"/><use href="#id9" x="52"/></symbol>
 <symbol id="recycle-sharp-solid" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id10"/><use href="#id10"/><use href="#id10" transform="rotate(120 61 68)"/><use href="#id10" transform="rotate(240 61 68)"/></symbol>
 <symbol id="recycle-solid" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id11"/><use href="#id11"/><use href="#id11" transform="rotate(120 61 68)"/><use href="#id11" transform="rotate(240 61 68)"/></symbol>
 <symbol id="rocket-solid" viewBox="0 0 128 128"><path d="M45 98Q-1 129 30 83ZM83 37a1 1 0 000 15 1 1 0 000-15m23-23q8 0 8 7 0 26-31 55 0 26-23 38V91L37 68H14Q28 45 52 45q28-31 54-31"/></symbol>

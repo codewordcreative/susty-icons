@@ -217,7 +217,7 @@
 <symbol id="puzzle" viewBox="0 0 128 128"><path d="M93 31q-7 0-7-7A11 11 90 1064 24q0 7-7 7H38q-7 0-7 7V51q0 7-7 7a11 11 90 100 22q7 0 7 7v20q0 7 7 7H57q7 0 7-7a11 11 90 1122 0q0 7 7 7h14q7 0 7-7V88q0-7-7-7a11 11 90 110-22q7 0 7-7V38q0-7-7-7Z"/></symbol>
 <symbol id="question-mark" viewBox="0 0 128 128"><path d="M64 87V75q0-7 7-7A27 27 90 1042 27M64 96a8 8 90 000 17 8 8 90 000-17"/></symbol>
 <symbol id="quote-close" viewBox="0 0 128 128"><path d="M56 42q7 42-25 55-12 4-2-4Q49 79 46 62 24 69 19 51T33 28 56 42z" id="id9"/><use href="#id9" x="52"/></symbol>
-<symbol id="quote-open" viewBox="0 0 128 128"><path d="M20 42Q13 84 45 97q12 4 2-4Q27 79 30 62q22 7 27-11T43 28 20 42Z" id="id10"/><use href="#id10" x="52"/></symbol>
+<symbol id="quote-open" viewBox="0 0 128 128"><path d="M20 86q4 19 23 14T57 77 30 66Q27 49 47 35q10-8-2-4Q13 44 20 86Z" id="id10"/><use href="#id10" x="52"/></symbol>
 <symbol id="recycle" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id11"/><use href="#id11"/><use href="#id11" transform="rotate(120 61 68)"/><use href="#id11" transform="rotate(240 61 68)"/></symbol>
 <symbol id="rocket" viewBox="0 0 128 128"><path d="M45 98Q-1 129 30 83ZM83 37a1 1 0 000 15 1 1 0 000-15m23-23q8 0 8 7 0 26-31 55 0 26-23 38V91L37 68H14Q28 45 52 45q28-31 54-31"/></symbol>
 <symbol id="rss" viewBox="0 0 128 128"><path d="M16 69q43 0 43 43H78q0-61-62-61Zm0-35q76 0 76 78h19q0-96-95-96ZM28 88a1 1 0 000 24 1 1 0 000-24"/></symbol>
