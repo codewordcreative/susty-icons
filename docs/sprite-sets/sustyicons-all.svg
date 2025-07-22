@@ -60,6 +60,7 @@
 <symbol id="box-open" viewBox="0 0 128 128"><path d="M64 40l50-10V92L64 110Zv70L14 89V29ZM14 29 64 40l50-10L68 18ZM81 77V57l19-5V71ZM68 18V39"/></symbol>
 <symbol id="box-plain" viewBox="0 0 128 128"><path d="M64 40l50-10V92L64 110Zv70L14 89V29ZM14 29 64 40l50-10L68 18Z"/></symbol>
 <symbol id="box-sealed" viewBox="0 0 128 128"><path d="M64 40l50-10V92L64 110Zv70L14 89V29ZM14 29 64 40l50-10L68 18ZM81 77V57l19-5V71Zm6-54L37 34"/></symbol>
+<symbol id="brain" viewBox="0 0 128 128"><path d="M105 81q-11 2-16-4M76 61q9 4-1 13m-29 5q1-8 9-12 6-3 7-10m-27 5q-5 1-7 9m14-27q-1 7-12 9m20-1q-14-6-4-21m25 4q-7 7-17 2m18 12q-7-4 4-25m27 16q-12 11-20 3m10 3q-7 5-5 9m9 9q9 2 12-6m0 0q4-13-6-18-9-16-27-16-27-8-39 6-19 3-18 22-8 14 9 19 2 9 18 8 7 10 18 8l10 17h8l-2-11q22 3 25-12 8-8 4-23"/></symbol>
 <symbol id="bug-solid" viewBox="0 0 128 128"><path d="M64 46c-50 0-39 67 0 67Zc50 0 39 67 0 67M48 49C34 18 94 18 80 49z" fill="#000"/><path d="M56 27 50 15m28 0-6 12M33 63H25L14 46M95 63h8l11-17M31 83H23L15 93m28 12H34l-9 8m60-8h9l9 8M97 84h8l8 9"/></symbol>
 <symbol id="bug" viewBox="0 0 128 128"><path d="M64 46c-50 0-39 67 0 67Zc50 0 39 67 0 67M48 49C34 18 94 18 80 49M56 27 50 15m28 0-6 12M33 63H25L14 46M95 63h8l11-17M31 83H23L15 93m28 12H34l-9 8m60-8h9l9 8M97 84h8l8 9"/></symbol>
 <symbol id="buildings-city" viewBox="0 0 128 128"><path d="M62 114V41H14v73M49 56v4M27 56v4M49 76v4M27 97v4m7 13V103h8v11ZM49 97v4M27 76v4Zm8-35V14l42 8v92m0-86h37v86H14M69 33v74M87 40h2m13 0h2M87 52h2m13 0h2M87 64h2m13 0h2M87 76h2m13 0h2M87 88h2m13 0h2M87 100h2m13 0h2"/></symbol>
@@ -114,6 +115,7 @@
 <symbol id="coffee-cup2" viewBox="0 0 128 128"><path d="M85 55H29V88q0 19 23 19h7q26 0 26-19 30-24 0-28Zm0 12q15 1 0 12ZM41 45c4-7-5-13 0-23m16 0c-5 8 4 16 0 23m16 0c4-7-6-13 0-23"/></symbol>
 <symbol id="cog-solid" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
 <symbol id="cog" viewBox="0 0 128 128"><path d="M59 18h9l5 15a32 32 90 015 2l13-9 6 5-6 15a32 32 90 012 5l17 2 1 8-14 7a32 32 90 01-1 6l11 10-5 8-15-4a32 32 90 01-4 4l1 16-8 2-9-12a32 32 90 01-5 0l-9 12-7-2 1-16a32 32 90 01-5-4L27 92l-5-8L33 74a32 32 90 01-1-6L18 61l2-8 16-2a32 32 90 013-5L32 31l7-5 12 9a32 32 90 016-2Zm5 32a14 14 90 000 29 14 14 90 000-29"/></symbol>
+<symbol id="compass" viewBox="0 0 128 128"><path d="M68 68a1 1 0 00-8-8 1 1 0 008 8m5 5L91 37 55 55 37 91ZM22 64H15m98 0h-7M64 113v-7m0-91v7m0-7a1 1 0 010 98 1 1 0 010-98"/></symbol>
 <symbol id="computer-pc" viewBox="0 0 128 128"><path d="M101 38h13V97H89V81m12 0H14V30h87ZM63 81Q62 91 79 94v3H39V94q16-3 15-13Zm39 8v1"/></symbol>
 <symbol id="conversation" viewBox="0 0 128 128"><path d="M37 52H69q5 0 5-5V24q0-6-6-6H21q-5 0-5 5V47q0 5 5 5h7v8ZM24 29H49m7 0H66M24 41H42m7 0H66m24 59H58q-5 0-5-5V72q0-6 6-6h48q5 0 5 5V95q0 5-5 5h-7v8Zm13-23H78m-7 0H61m42 12H91m-7 0H61"/></symbol>
 <symbol id="copy" viewBox="0 0 128 128"><path d="M102 42 82 24m0 0V42h20v71H37V24Zm1-9H27v92"/></symbol>
@@ -170,6 +172,7 @@
 <symbol id="gift-present" viewBox="0 0 128 128"><path d="M113 51ZH20v62h88V51h5H15V32h98ZM64 51h4V32c45-5 20-37 0 0q-4-11-8 0c-18-37-45-5 0 0V51h4v62"/></symbol>
 <symbol id="github-solid" viewBox="0 0 128 128"><path d="M75 114V96q0-5-5-7 29-7 19-38 2-10 0-14-5 0-14 5-12-5-23 0-10-5-14-5-2 5 0 14-10 31 19 38-5 2-5 7-10 2-14-5-3-5-10-5-5 1 3 6c5 3 3 13 22 12v10m0 0a50 50 90 1 1 22 0"/></symbol>
 <symbol id="github" viewBox="0 0 128 128"><path d="M75 114V96q0-5-5-7 29-7 19-38 2-10 0-14-5 0-14 5-12-5-23 0-10-5-14-5-2 5 0 14-10 31 19 38-5 2-5 7-10 2-14-5-3-5-10-5-5 1 3 6c5 3 3 13 22 12v10m0 0a50 50 90 1 1 22 0"/></symbol>
+<symbol id="glasses" viewBox="0 0 128 128"><path d="M44 66Q15 63 19 79t27 9c11-4 12-20-2-22m40 0q29-3 25 13T82 88c-11-4-12-20 2-22M54 74q10-5 20 0M44 41 25 67M84 41l19 26"/></symbol>
 <symbol id="globe" viewBox="0 0 128 128"><path d="M114 64A50 50 0 1014 64a50 50 0 10100 0H14m8-27h84m0 54H22m36 22Q14 64 58 15m12 0q44 49 0 98"/></symbol>
 <symbol id="globe2" viewBox="0 0 128 128"><path d="M64 14a1 1 0 010 99 1 1 0 010-99C54 14 43 36 44 64s9 49 20 49m0-99c11 0 20 22 20 50s-9 49-20 49M15 64h98"/></symbol>
 <symbol id="greater-than" viewBox="0 0 128 128"><path d="M32 32 L96 64 L32 96"/></symbol>
@@ -413,6 +416,7 @@
 <symbol id="youtube-solid" viewBox="0 0 128 128"><path d="M52 78V46L81 61Zm60-47H16V94h96Z"/></symbol>
 <symbol id="youtube" viewBox="0 0 128 128"><path d="M52 78V46L81 61Zm60-47H16V94h96Z"/></symbol>
 <symbol id="zip-folder" viewBox="0 0 128 128"><path d="M81 88V52H92a1 1 0 011 21H81M66 52V88M51 88H28L51 52H28m87-16H57L46 25H14v78H115Z"/></symbol>
+<symbol id="zoom-abc-spelling" viewBox="0 0 128 128"><circle cx="54" cy="54" r="38"/><path d="M38 62c-16 6-17-18 0-12V62q0 1 2 1m9-13c13-6 19 16 0 13V39M80 50c-15-5-15 17 0 13m33 50L81 81"/></symbol>
 <symbol id="zoom-in" viewBox="0 0 128 128"><circle cx="54" cy="54" r="38"/><path d="m81 81 32 32M40 54h28M54 40v28"/></symbol>
 <symbol id="zoom-out" viewBox="0 0 128 128"><circle cx="54" cy="54" r="38"/><path d="m81 81 32 32M40 54h28"/></symbol>
 </svg>
