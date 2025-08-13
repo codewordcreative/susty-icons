@@ -12,7 +12,7 @@
 <symbol id="bell-notification-solid" viewBox="0 0 128 128"><path d="M54 101a11 9 90 0020 0m-59 0C30 83 26 65 31 40a33 34 90 0166 0c5 25 1 43 16 61Z"/></symbol>
 <symbol id="bell-notifications-off-solid" viewBox="0 0 128 128"><path d="M54 92a11 9 90 0020 0M26 92c18-28-2-51 18-64a33 34 90 0140 0c20 14 0 36 18 64Zm82-72-88 88"/></symbol>
 <symbol id="bell-notifications-on-solid" viewBox="0 0 128 128"><path d="M54 92a11 9 90 0020 0M26 92c18-28-2-51 18-64a33 34 90 0140 0c20 14 0 36 18 64Z"/></symbol>
-<symbol id="bluesky-solid" viewBox="0 0 128 128"><path d="M111 21q4 1 0 40-4 15-29 12 29 7 18 25-24 28-36-13V60c19-30 36-43 47-39M17 21q-4 1 0 40 4 15 29 12-29 7-18 25 24 28 36-13V60m0 0C45 30 28 17 17 21"/></symbol>
+<symbol id="bluesky-solid" viewBox="0 0 128 128"><path d="M64 85q12 41 36 13 11-18-18-25 25 3 29-12 4-39 0-40c-11-4-28 9-47 40C45 30 28 17 17 21q-4 1 0 40 4 15 29 12-29 7-18 25 24 28 36-13"/></symbol>
 <symbol id="bookmark-solid" viewBox="0 0 128 128"><path d="M30 114 64 99l34 15V14H30V114Z"/></symbol>
 <symbol id="bug-solid" viewBox="0 0 128 128"><path d="M64 46c-50 0-39 67 0 67Zc50 0 39 67 0 67M48 49C34 18 94 18 80 49z" fill="#000"/><path d="M56 27 50 15m28 0-6 12M33 63H25L14 46M95 63h8l11-17M31 83H23L15 93m28 12H34l-9 8m60-8h9l9 8M97 84h8l8 9"/></symbol>
 <symbol id="camera-solid" viewBox="0 0 128 128"><path d="M114 39q0-15-10-5L84 54V39q0-10-10-10H24Q14 29 14 39V88q0 11 10 11H74q10 0 10-10V74l20 20q10 10 10-5V39"/></symbol>

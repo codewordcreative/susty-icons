@@ -37,7 +37,7 @@
 <symbol id="bell-notifications-off" viewBox="0 0 128 128"><path d="M54 92a11 9 90 0020 0M26 92c18-28-2-51 18-64a33 34 90 0140 0c20 14 0 36 18 64Zm82-72-88 88"/></symbol>
 <symbol id="bell-notifications-on" viewBox="0 0 128 128"><path d="M54 92a11 9 90 0020 0M26 92c18-28-2-51 18-64a33 34 90 0140 0c20 14 0 36 18 64Z"/></symbol>
 <symbol id="blind" viewBox="0 0 128 128"><circle cx="64" cy="64" r="20"/><path d="M14 64q50 57 100 0Q64 4 14 64Zm2 48 96-96"/></symbol>
-<symbol id="bluesky" viewBox="0 0 128 128"><path d="M111 21q4 1 0 40-4 15-29 12 29 7 18 25-24 28-36-13m0-24c19-31 36-44 47-40M17 21q-4 1 0 40 4 15 29 12-29 7-18 25 24 28 36-13m0-24C45 30 28 17 17 21"/></symbol>
+<symbol id="bluesky" viewBox="0 0 128 128"><path d="M64 85q12 41 36 13 11-18-18-25 25 3 29-12 4-39 0-40c-11-4-28 9-47 40C45 30 28 17 17 21q-4 1 0 40 4 15 29 12-29 7-18 25 24 28 36-13"/></symbol>
 <symbol id="bluetooth" viewBox="0 0 128 128"><path d="M40 39 88 89 64 114V14L88 38 40 88"/></symbol>
 <symbol id="book-open" viewBox="0 0 128 128"><path d="M14 103q20 0 50 11V26q9-10 50-12v89q-21-1-50 11V26Q55 16 14 14Z"/></symbol>
 <symbol id="book" viewBox="0 0 128 128"><path d="M51 104V45M26 24 87 14q0 9 13 14M38 38v76m0-76q-9-4-12-14v77q3 10 12 13l62-10V28ZM63 58l27-4m0 20-27 4"/></symbol>
