@@ -87,6 +87,7 @@
 <symbol id="planet-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M82 110c-45-25 16-16 18-52q2-20 12-7M15 68c41 0 5-20 13-28q16-8-2-8m14-12q12 20 45-1"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
 <symbol id="plus2-solid" viewBox="0 0 128 128"><path d="M55 55V25H73V55h30V73H73v30H55V73H25V55Z"/></symbol>
 <symbol id="poop-solid" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
+<symbol id="pricetag-labe-solid" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM94 34A1 1 0 0078 50 1 1 0 0094 34z"/></symbol>
 <symbol id="print-solid" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94ZM41 78H86m0 20H67M40 88H86M99 53h8v8H99Z"/><path d="M92 46V20H34V46M94 93v16H32V93" fill="none"/></symbol>
 <symbol id="puzzle-solid" viewBox="0 0 128 128"><path d="M93 31q-7 0-7-7A11 11 90 1064 24q0 7-7 7H38q-7 0-7 7V51q0 7-7 7a11 11 90 100 22q7 0 7 7v20q0 7 7 7H57q7 0 7-7a11 11 90 1122 0q0 7 7 7h14q7 0 7-7V88q0-7-7-7a11 11 90 110-22q7 0 7-7V38q0-7-7-7Z"/></symbol>
 <symbol id="quote-close-solid" viewBox="0 0 128 128"><path d="M58 41q8 46-28 61-13 4-2-4Q50 82 47 63 22 71 17 51T32 26 58 41z" id="id8"/><use href="#id8" x="52"/></symbol>
@@ -99,6 +100,7 @@
 <symbol id="server-solid" viewBox="0 0 128 128"><path d="M18 23h92V44H18Zm83 11H88M31 29a1 1 90 000 9 1 1 90 000-9m21 0a1 1 90 000 9 1 1 90 000-9m21 0a1 1 90 000 9 1 1 90 000-9" id="id12"/><use href="#id12" y="30"/><use href="#id12" y="60"/></symbol>
 <symbol id="server-stack-solid" viewBox="0 0 128 128"><path d="M15 15h98V45H15ZM31 26a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8m21 0a1 1 90 000 8 1 1 90 000-8" id="id13"/><use href="#id13" y="34"/><use href="#id13" y="68"/></symbol>
 <symbol id="settings-solid" viewBox="0 0 128 128"><circle cx="30" cy="50" r="11" id="id14"/><path d="M30 14V114M64 14V114M98 14V114"/><use href="#id14"/><use href="#id14" x="34" y="35"/><use href="#id14" x="68" y="-15"/></symbol>
+<symbol id="settings-wrench-solid" viewBox="0 0 128 128"><path d="M62 47c6-14-3-39-32-30L46 34l-3 9-9 3L17 30C8 59 33 68 47 62l50 50c6 6 21-9 15-15Zm37 56a1 1 0 010-8 1 1 0 010 8Z"/></symbol>
 <symbol id="share-solid" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield-solid" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="square-small-solid" viewBox="0 0 128 128"><path d="M35 35h58v58H35Z"/></symbol>
