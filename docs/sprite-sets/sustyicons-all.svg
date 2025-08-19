@@ -104,8 +104,12 @@
 <symbol id="clock" viewBox="0 0 128 128"><path d="M64 15a1 1 0 000 98 1 1 0 000-98m0 7v6m20 0h0m17 16h0m-73 0h0m17-16h0m19 79v-7m20 0h0m17-16h0m6-20h-6m-73 0h-6m6 20h0m16 16h0m20-64v28l19 12"/></symbol>
 <symbol id="clock2" viewBox="0 0 128 128"><path d="M83 76 64 64V36M22 64h6m73 0h6M64 100v7m0-79V22m0-7a1 1 0 010 98 1 1 0 010-98"/></symbol>
 <symbol id="close" viewBox="0 0 128 128"><path d="M86 86 41 41m1 45L87 41"/></symbol>
-<symbol id="cloud-solid" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
-<symbol id="cloud" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
+<symbol id="cloud-co2-carbon" viewBox="0 0 128 128"><path d="M95 86H88l5-6c5-5 0-10-5-5M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42ZM50 56c-19-5-21 34 2 27M70 56c-12 0-14 28 0 28s12-28 0-28"/></symbol>
+<symbol id="cloud-download" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 53v58M84 91 64 111 46 91"/></symbol>
+<symbol id="cloud-solid" viewBox="0 0 128 128"><path d="M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42Z"/></symbol>
+<symbol id="cloud-sync" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 48v63M84 91 64 111 46 91M84 68 64 48 46 68"/></symbol>
+<symbol id="cloud-upload" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 48v58M84 68 64 48 46 68"/></symbol>
+<symbol id="cloud" viewBox="0 0 128 128"><path d="M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42Z"/></symbol>
 <symbol id="code" viewBox="0 0 128 128"><path d="M82 88l31-24L82 40M46 88 15 64 46 40"/></symbol>
 <symbol id="code2" viewBox="0 0 128 128"><path d="M52 115 76 14m6 74 31-24L82 40M46 88 15 64 46 40"/></symbol>
 <symbol id="coffee-cup-solid" viewBox="0 0 128 128"><path d="M83 48H27V89Q27 113 45 113H65Q83 113 83 86 118 55 83 55ZM83 61Q106 60 83 78ZM39 38C43 31 34 25 39 15M55 15C50 23 59 31 55 38M71 38C75 31 65 25 71 15"/></symbol>
@@ -310,7 +314,7 @@
 <symbol id="poop-solid" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
 <symbol id="poop" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
 <symbol id="power" viewBox="0 0 128 128"><path d="M50 30a43 43 0 1028 0M64 15v30"/></symbol>
-<symbol id="pricetag-labe-solid" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM94 34A1 1 0 0078 50 1 1 0 0094 34z"/></symbol>
+<symbol id="pricetag-label-solid" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM94 34A1 1 0 0078 50 1 1 0 0094 34z"/></symbol>
 <symbol id="pricetag-label" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM92 36A1 1 0 0080 48 1 1 0 0092 36"/></symbol>
 <symbol id="print-solid" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94ZM41 78H86m0 20H67M40 88H86M99 53h8v8H99Z"/><path d="M92 46V20H34V46M94 93v16H32V93" fill="none"/></symbol>
 <symbol id="print" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94Zv16H32V93m2-74H92V46H34Zm6 59H86m0 20H67M40 88H86m15-34h4"/></symbol>

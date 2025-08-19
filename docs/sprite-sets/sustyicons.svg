@@ -81,7 +81,11 @@
 <symbol id="clock" viewBox="0 0 128 128"><path d="M64 15a1 1 0 000 98 1 1 0 000-98m0 7v6m20 0h0m17 16h0m-73 0h0m17-16h0m19 79v-7m20 0h0m17-16h0m6-20h-6m-73 0h-6m6 20h0m16 16h0m20-64v28l19 12"/></symbol>
 <symbol id="clock2" viewBox="0 0 128 128"><path d="M83 76 64 64V36M22 64h6m73 0h6M64 100v7m0-79V22m0-7a1 1 0 010 98 1 1 0 010-98"/></symbol>
 <symbol id="close" viewBox="0 0 128 128"><path d="M86 86 41 41m1 45L87 41"/></symbol>
-<symbol id="cloud" viewBox="0 0 128 128"><path d="m90 52a21 21 90 014 42H37a16 16 90 112-46 27 27 90 0151 4z"/></symbol>
+<symbol id="cloud-co2-carbon" viewBox="0 0 128 128"><path d="M95 86H88l5-6c5-5 0-10-5-5M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42ZM50 56c-19-5-21 34 2 27M70 56c-12 0-14 28 0 28s12-28 0-28"/></symbol>
+<symbol id="cloud-download" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 53v58M84 91 64 111 46 91"/></symbol>
+<symbol id="cloud-sync" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 48v63M84 91 64 111 46 91M84 68 64 48 46 68"/></symbol>
+<symbol id="cloud-upload" viewBox="0 0 128 128"><path d="M52 80H37a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42H76M64 48v58M84 68 64 48 46 68"/></symbol>
+<symbol id="cloud" viewBox="0 0 128 128"><path d="M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42Z"/></symbol>
 <symbol id="code" viewBox="0 0 128 128"><path d="M82 88l31-24L82 40M46 88 15 64 46 40"/></symbol>
 <symbol id="code2" viewBox="0 0 128 128"><path d="M52 115 76 14m6 74 31-24L82 40M46 88 15 64 46 40"/></symbol>
 <symbol id="coffee-cup" viewBox="0 0 128 128"><path d="M83 48H27V89q0 24 18 24H65q18 0 18-25 38-33 0-35Zm0 14q20 0 0 14ZM39 38c4-7-5-13 0-23m16 0c-5 8 4 16 0 23m16 0c4-7-6-13 0-23"/></symbol>
