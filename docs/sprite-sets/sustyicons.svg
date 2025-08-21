@@ -199,7 +199,8 @@
 <symbol id="monitor-search" viewBox="0 0 128 128"><path d="M22 33V76h84V33Zm92 51H14V25H114ZM70 84q-1 10 14 16v2H44v-2q15-6 14-16ZM61 43H87c5 0 5 7 0 7H61c-5 0-5-7 0-7M44 49l4 3Za1 1 0 00-8-6 1 1 0 008 6ZM35 60H91m0 7H35"/></symbol>
 <symbol id="monitor-tick" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114ZM41 55l16 16 30-33"/></symbol>
 <symbol id="monitor" viewBox="0 0 128 128"><path d="M58 84q1 10-14 16v2H84v-2Q69 94 70 84Zm56-59H14V84H114Z"/></symbol>
-<symbol id="moon" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id8"/><use href="#id8" x="24" y="-24"/><path d="m104 95A50 49 35 1150 16a54 50 35 0055 78z"/></symbol>
+<symbol id="moon" viewBox="0 0 128 128"><path d="m74 40 4 10 10 4-10 4-4 10-4-10-10-4 10-4z" id="id8"/><use href="#id8" x="24" y="-24"/><path d="M105 94A50 49 35 1150 16a54 50 35 0055 78Z"/></symbol>
+<symbol id="moon2" viewBox="0 0 128 128"><path d="M108 94A50 49 35 1153 16a54 50 35 0055 78Z"/></symbol>
 <symbol id="music-note" viewBox="0 0 128 128"><path d="M47 97c0 19-31 23-31 4s31-23 31-4V29l66-14V83m0 0c0 19-30 23-30 4s30-23 30-4"/></symbol>
 <symbol id="mute" viewBox="0 0 128 128"><path d="M66 18q0-5-5-1L33 42H18q-4 0-4 4V80q0 4 4 4H33l28 26q5 4 5-1ZM82 45 95 58l13-13 6 6-13 13 13 14-6 6L95 70 82 84l-6-6L89 64 76 51Z"/></symbol>
 <symbol id="new-starburst" viewBox="0 0 128 128"><path d="M95 19q3 13 16 16-13 3-16 16-3-13-16-16 13-3 16-16M60 21q9 35 44 44-35 8-44 44-8-36-44-44 36-8 44-44"/></symbol>
