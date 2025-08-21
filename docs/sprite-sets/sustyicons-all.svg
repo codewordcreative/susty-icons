@@ -370,11 +370,11 @@
 <symbol id="square-small-solid" viewBox="0 0 128 128"><path d="M35 35h58v58H35Z"/></symbol>
 <symbol id="square-small" viewBox="0 0 128 128"><path d="M35 35h58v58H35Z"/></symbol>
 <symbol id="square-solid" viewBox="0 0 128 128"><path d="M15 15h98v98H15Z"/></symbol>
-<symbol id="square" viewBox="0 0 128 128"><path d="M15 15h98v98H15Z"/></symbol>
+<symbol id="square" viewBox="0 0 128 128"><path d="M16 16h96v96H16Z"/></symbol>
 <symbol id="star-solid" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93l36 20L89 77l24-27H78L64 15Z"/></symbol>
 <symbol id="star" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93l36 20L89 77l24-27H78L64 15Z"/></symbol>
-<symbol id="sticky-note-solid" viewBox="0 0 128 128"><path d="M87 14l27 27v77H14V14H87V41h27"/></symbol>
-<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M87 14l27 27v77H14V14H87V41h27"/></symbol>
+<symbol id="sticky-note-solid" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
+<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
 <symbol id="suitcase-solid" viewBox="0 0 128 128"><path d="M42 56h5v5h4V56H88V52H42ZM59 34V20H69V34h5V15H54V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>
 <symbol id="suitcase" viewBox="0 0 128 128"><path d="M87 55H42h4v4M59 34V21H69V34h6V15H53V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>
 <symbol id="sun-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="26"/><path d="m39 89-7 7m7-57-7-7m64 64-7-7m7-57-7 7M30 64H17m94 0H98M64 98v13m0-94v13"/></symbol>
@@ -394,7 +394,7 @@
 <symbol id="thumb-up" viewBox="0 0 128 128"><path d="M62 36c10-20-4-24-7-19Q44 40 35 49t-2 53q1 9 13 10t45 0q7-6 3-13 6-8 1-14 6-9 1-15 5-10-2-14-4-2-35-1-5-1 3-19"/></symbol>
 <symbol id="thumb-up2" viewBox="0 0 128 128"><path d="M71 36c10-20-4-24-7-19Q53 40 44 49t-2 53q1 9 13 10t45 0q7-6 3-13 6-8 1-14 6-9 1-15 5-10-2-14-4-2-35-1-5-1 3-19M41 54H25q-6 26 1 57 11 2 21-1M33 98a1 1 0 000 5 1 1 0 000-5"/></symbol>
 <symbol id="tick" viewBox="0 0 128 128"><path d="m14 65 34 34 65-71"/></symbol>
-<symbol id="tickbox" viewBox="0 0 128 128"><path d="M37 66l20 20 38-41M15 15h98v98H15Z"/></symbol>
+<symbol id="tickbox" viewBox="0 0 128 128"><path d="M37 66l20 20 38-41M16 16h96v96H16Z"/></symbol>
 <symbol id="toggle-b" viewBox="0 0 128 128"><path d="M78 83H34a2 2 90 110-38H78a1 1 90 0131 38A1 1 90 0178 45"/></symbol>
 <symbol id="toggle" viewBox="0 0 128 128"><path d="M50 83H94a2 2 90 100-38H50A1 1 90 0019 83 1 1 90 0050 45"/></symbol>
 <symbol id="trash-solid" viewBox="0 0 128 128"><path d="M23 28H52a1 1 0 0125 0h27Zm81 8H24l4 76h72Z"/></symbol>
