@@ -1,5 +1,5 @@
-### A work in progress before initial release: Currently 311 outline icons including some variations of the same icon idea, and 135 solid variants.
-#### Last update: 21 August 2025
+### A work in progress before initial release: Currently 320 outline icons including some variations of the same icon idea, and 140 solid variants.
+#### Last update: 23 August 2025
 
 ## Tooling update: 2 August 2025
 [CLI node.js tool for sprite sheet generation available](https://github.com/codewordcreative/susty-sprite-sheets)
