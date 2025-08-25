@@ -1,4 +1,4 @@
-### A work in progress before initial release: Currently 320 outline icons including some variations of the same icon idea, and 140 solid variants.
+### A work in progress before initial release: Currently 326 outline icons including some variations of the same icon idea, and 143 solid variants.
 #### Last update: 23 August 2025
 
 ## Tooling update: 2 August 2025
