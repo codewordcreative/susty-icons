@@ -251,15 +251,16 @@
 <symbol id="power" viewBox="0 0 128 128"><path d="M50 30a43 43 0 1028 0M64 15v30"/></symbol>
 <symbol id="pricetag-label" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM92 36A1 1 0 0080 48 1 1 0 0092 36"/></symbol>
 <symbol id="print" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94Zv16H32V93m2-74H92V46H34Zm6 59H86m0 20H67M40 88H86m15-34h4"/></symbol>
+<symbol id="profile-photo" viewBox="0 0 128 128"><path d="M26 113h77V15H26Zq0-22 29-22a32 22 90 1118 0q30 0 30 22Z"/></symbol>
 <symbol id="programming" viewBox="0 0 128 128"><path d="M62 82H44m70-38H14M27 32h1m11 0h1m11 0h1M24 62 42 72 24 82m40 20H14V20H114v82h-3m-8-15L68 69l10 38 7-11 12 14 6-5L91 91Z"/></symbol>
 <symbol id="puzzle" viewBox="0 0 128 128"><path d="M93 31q-7 0-7-7A11 11 90 1064 24q0 7-7 7H38q-7 0-7 7V51q0 7-7 7a11 11 90 100 22q7 0 7 7v20q0 7 7 7H57q7 0 7-7a11 11 90 1122 0q0 7 7 7h14q7 0 7-7V88q0-7-7-7a11 11 90 110-22q7 0 7-7V38q0-7-7-7Z"/></symbol>
 <symbol id="question-mark" viewBox="0 0 128 128"><path d="M64 87V75q0-7 7-7A27 27 90 1042 27M64 96a8 8 90 000 17 8 8 90 000-17"/></symbol>
 <symbol id="quote-close" viewBox="0 0 128 128"><path d="M56 42q7 42-25 55-12 4-2-4Q49 79 46 62 24 69 19 51T33 28 56 42z" id="id11"/><use href="#id11" x="52"/></symbol>
 <symbol id="quote-open" viewBox="0 0 128 128"><path d="M20 86q4 19 23 14T57 77 30 66Q27 49 47 35q10-8-2-4Q13 44 20 86Z" id="id12"/><use href="#id12" x="52"/></symbol>
-<symbol id="record" viewBox="0 0 128 128"></symbol>
+<symbol id="record" viewBox="0 0 128 128"><circle cx="64" cy="64" r="32"/></symbol>
 <symbol id="recycle-bin" viewBox="0 0 128 128"><path d="M23 28H52a1 1 0 0125 0h27Zm81 8H24l4 76h72Z"/><path d="M58 59q12-7 22 6-5-22-25-13l-2-6-6 14 13 5Z" id="id13"/><use href="#id13"/><use href="#id13" transform="rotate(120 63 75)"/><use href="#id13" transform="rotate(240 63 75)"/></symbol>
 <symbol id="recycle" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id14"/><use href="#id14"/><use href="#id14" transform="rotate(120 61 68)"/><use href="#id14" transform="rotate(240 61 68)"/></symbol>
-<symbol id="rewind" viewBox="0 0 128 128"></symbol>
+<symbol id="rewind" viewBox="0 0 128 128"><path d="M68 57V28L28 64l40 36V71l32 29V28Z"/></symbol>
 <symbol id="road" viewBox="0 0 128 128"><path d="M70 110H58l2-49h8ZM67 48H61l1-30h4ZM90 18l20 92m-92 0L38 18"/></symbol>
 <symbol id="rocket" viewBox="0 0 128 128"><path d="M45 98Q-1 129 30 83ZM83 37a1 1 0 000 15 1 1 0 000-15m23-23q8 0 8 7 0 26-31 55 0 26-23 38V91L37 68H14Q28 45 52 45q28-31 54-31"/></symbol>
 <symbol id="rss" viewBox="0 0 128 128"><path d="M16 69q43 0 43 43H78q0-61-62-61Zm0-35q76 0 76 78h19q0-96-95-96ZM28 88a1 1 0 000 24 1 1 0 000-24"/></symbol>
