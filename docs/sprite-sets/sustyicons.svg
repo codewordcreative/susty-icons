@@ -248,6 +248,7 @@
 <symbol id="plus2" viewBox="0 0 128 128"><path d="M55 55V25H73V55h30V73H73v30H55V73H25V55Z"/></symbol>
 <symbol id="poop-emoji" viewBox="0 0 128 128"><ellipse cx="50" cy="65" rx="5" ry="10"/><ellipse cx="78" cy="65" rx="5" ry="10"/><path d="M43 89q20 18 41 0Zm59 25H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
 <symbol id="poop" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
+<symbol id="power-reset-restart" viewBox="0 0 128 128"><path d="M64 48V18M45 42l5-15-16-5m16 5a44 44 90 1028 0"/></symbol>
 <symbol id="power" viewBox="0 0 128 128"><path d="M50 30a43 43 0 1028 0M64 15v30"/></symbol>
 <symbol id="pricetag-label" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM92 36A1 1 0 0080 48 1 1 0 0092 36"/></symbol>
 <symbol id="print" viewBox="0 0 128 128"><path d="M94 93h19V46H15V93H32V68H94Zv16H32V93m2-74H92V46H34Zm6 59H86m0 20H67M40 88H86m15-34h4"/></symbol>
