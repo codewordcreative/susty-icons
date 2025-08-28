@@ -446,8 +446,8 @@
 <symbol id="toggle" viewBox="0 0 128 128"><path d="M50 83H94a2 2 90 100-38H50A1 1 90 0019 83 1 1 90 0050 45"/></symbol>
 <symbol id="trash-solid" viewBox="0 0 128 128"><path d="M23 28H52a1 1 0 0125 0h27Zm81 8H24l4 76h72Z"/></symbol>
 <symbol id="trash" viewBox="0 0 128 128"><path d="M48 53V92M80 53V92M64 53V92M23 28H52a1 1 0 0125 0h27Zm81 8H24l4 76h72Z"/></symbol>
-<symbol id="tree-pine-solid" viewBox="0 0 128 128"><path d="M80 68H92L74 44H84L64 15 44 44H54L36 68H48L34 88q30 5 60 0ZM64 73v40"/></symbol>
-<symbol id="tree-pine" viewBox="0 0 128 128"><path d="M80 68H92L74 44H84L64 15 44 44H54L36 68H48L34 88q30 5 60 0ZM64 73v40"/></symbol>
+<symbol id="tree-pine-solid" viewBox="0 0 128 128"><path d="M80 68H92L74 44H84L64 15 44 44H54L36 68H48L34 88q30 5 60 0ZM64 91v22"/></symbol>
+<symbol id="tree-pine" viewBox="0 0 128 128"><path d="M80 68H92L74 44H84L64 15 44 44H54L36 68H48L34 88q30 5 60 0ZM64 91v22"/></symbol>
 <symbol id="tree-roots" viewBox="0 0 128 128"><path d="M51 43q10 4 13 26m0 8A1 1 90 0131 62a1 1 90 016-27A1 1 90 0166 25 1 1 90 0195 40 1 1 90 0164 77M77 49q-6 2-13 20v32c10 1 20 9 27 8m-27-8c-12 7-18 1-27 8m27-8q-9 8-9 12m9-12q9 8 9 12"/></symbol>
 <symbol id="tree-solid" viewBox="0 0 128 128"><path d="M50 47q12 2 14 24m0 7A1 1 0 0130 65a1 1 0 013-23A1 1 0 0167 25 1 1 0 01100 45 1 1 0 0164 78" fill="#000"/><path d="M64 114V71"/></symbol>
 <symbol id="tree" viewBox="0 0 128 128"><path d="M50 47q12 2 14 24m0 7A1 1 0 0130 65a1 1 0 013-23A1 1 0 0167 25 1 1 0 01100 45 1 1 0 0164 78M82 56q-9-2-18 15v42"/></symbol>
