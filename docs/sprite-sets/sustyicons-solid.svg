@@ -116,6 +116,7 @@
 <symbol id="settings-wrench-solid" viewBox="0 0 128 128"><path d="M62 47c6-14-3-39-32-30L46 34l-3 9-9 3L17 30C8 59 33 68 47 62l50 50c6 6 21-9 15-15Zm37 56a1 1 0 010-8 1 1 0 010 8Z"/></symbol>
 <symbol id="share-solid" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield-solid" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
+<symbol id="signpost-choices-solid" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZM68 57V47H60V57ZH97l5 10-5 10H47V57Zm-8 56V77h8v36Z"/></symbol>
 <symbol id="square-small-solid" viewBox="0 0 128 128"><path d="M35 35h58v58H35Z"/></symbol>
 <symbol id="square-solid" viewBox="0 0 128 128"><path d="M16 16h96v96H16Z"/></symbol>
 <symbol id="star-half-solid" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93V15Z"/></symbol>
