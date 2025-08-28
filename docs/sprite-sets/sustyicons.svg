@@ -107,7 +107,12 @@
 <symbol id="discord" viewBox="0 0 128 128"><path d="M44 92l-5 11L18 92q-4-2-4-8 1-30 13-49 2-3 6-5l16-4 4 7q11-3 22 0l4-7 16 5q4 1 6 5 12 19 13 49 0 6-4 8L89 104 84 93M38 88q26 14 54 0M47 77c-11 0-11-20 0-20s11 20 0 20Zm34 0c-11 0-11-20 0-20s11 20 0 20Z"/></symbol>
 <symbol id="divided-by" viewBox="0 0 128 128"><path d="M25 73V55h78V73ZM64 85a1 1 90 010 22 1 1 90 010-22m0-42a1 1 0 000-22 1 1 0 000 22"/></symbol>
 <symbol id="doctor-stethoscope" viewBox="0 0 128 128"><path d="M29 21c10 14 9-15 0 0Q1 21 31 69q16 31 32 0 30-48 2-48c-9-15-9 14 0 0M47 84v16c0 16 33 17 33 0V66c0-16 23-16 23-1a1 1 90 000 20 1 1 90 000-20m0 13c-4 0-4-6 0-6s4 6 0 6"/></symbol>
+<symbol id="document-add" viewBox="0 0 128 128"><path d="M77 68H51M64 81V55M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
+<symbol id="document-minus" viewBox="0 0 128 128"><path d="M77 68H51M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
 <symbol id="document-paper" viewBox="0 0 128 128"><path d="M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
+<symbol id="document-remove" viewBox="0 0 128 128"><path d="M77 57 52 81m24 0L52 57M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
+<symbol id="document-star" viewBox="0 0 128 128"><path d="M64 50l6 14h14L74 75l4 14-14-8-14 8 5-14-11-11h14zM26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
+<symbol id="document-tick" viewBox="0 0 128 128"><path d="M79 57 60 83 49 74M26 15v98h75V33H83V15Zm57 0 18 18Z"/></symbol>
 <symbol id="download" viewBox="0 0 128 128"><path d="m23 73v36h82V73M64 21v71m28-28-28 28-27-28"/></symbol>
 <symbol id="drink-ice" viewBox="0 0 128 128"><path d="M73 62H61M49 62H38m9-2 9 8 7-9-8-8Zm28-6 10 2-2 10-10-2Zm15 8H84Zm4-28H34l10 78H84ZM54 105 81 14"/></symbol>
 <symbol id="drink" viewBox="0 0 128 128"><path d="M90 62H38Zm4-28H34l10 78h40Zm-40 71 27-91"/></symbol>
@@ -132,6 +137,8 @@
 <symbol id="flag" viewBox="0 0 128 128"><path d="M27 71h74V15H27v99"/></symbol>
 <symbol id="flame" viewBox="0 0 128 128"><path d="M55 15c8 7 20 65 28 35q27 53-9 63c4-32-7-27-12-43q-27 24-7 43C3 90 66 46 55 15Z"/></symbol>
 <symbol id="flower" viewBox="0 0 128 128"><path d="M64 39q30-53 19 7 55-9 7 18 48 36-7 18 11 60-18 7-30 53-18-7-57 18-8-18-49-28 7-18-12-60 18-7Za1 1 90 001 50A1 1 90 0064 39"/></symbol>
+<symbol id="folder-add" viewBox="0 0 128 128"><path d="M77 68H51M64 81V55m51-19H57L46 25H14v78H115Z"/></symbol>
+<symbol id="folder-minus" viewBox="0 0 128 128"><path d="M77 68H51m64-32H57L46 25H14v78H115Z"/></symbol>
 <symbol id="folder-remove" viewBox="0 0 128 128"><path d="M77 57 52 81m24 0L52 57m63-21H57L46 25H14v78H115Z"/></symbol>
 <symbol id="folder-star" viewBox="0 0 128 128"><path d="m115 36H57L46 25H14v78h101zM64 50l6 14h14L74 75l4 14-14-8-14 8 5-14-11-11h14z"/></symbol>
 <symbol id="folder-tick" viewBox="0 0 128 128"><path d="M79 57 60 83 49 74m66-38H57L46 25H14v78H115Z"/></symbol>
