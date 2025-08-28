@@ -123,6 +123,8 @@
 <symbol id="share-solid" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield-solid" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="signpost-choices-solid" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZM68 57V47H60V57ZH97l5 10-5 10H47V57Zm-8 56V77h8v36Z"/></symbol>
+<symbol id="signpost-left-solid" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZV47M60 113V47h8v66Z"/></symbol>
+<symbol id="signpost-right-solid" viewBox="0 0 128 128"><path d="M68 27V18h-8v9Zm-20 0V47H94l6-10-6-10ZV47m20 66V47h-8v66Z"/></symbol>
 <symbol id="square-small-solid" viewBox="0 0 128 128"><path d="M35 35h58v58H35Z"/></symbol>
 <symbol id="square-solid" viewBox="0 0 128 128"><path d="M16 16h96v96H16Z"/></symbol>
 <symbol id="star-half-solid" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93V15Z"/></symbol>

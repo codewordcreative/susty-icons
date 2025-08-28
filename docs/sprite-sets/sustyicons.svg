@@ -136,6 +136,9 @@
 <symbol id="flame" viewBox="0 0 128 128"><path d="M55 15c8 7 20 65 28 35q27 53-9 63c4-32-7-27-12-43q-27 24-7 43C3 90 66 46 55 15Z"/></symbol>
 <symbol id="flower" viewBox="0 0 128 128"><path d="M64 39q30-53 19 7 55-9 7 18 48 36-7 18 11 60-18 7-30 53-18-7-57 18-8-18-49-28 7-18-12-60 18-7Za1 1 90 001 50A1 1 90 0064 39"/></symbol>
 <symbol id="flower2" viewBox="0 0 128 128"><circle cx="64" cy="64" r="10"/><ellipse id="id4" cx="64" cy="44" rx="10" ry="24"/><use href="#id4"/><use href="#id4" transform="rotate(60 64 64)"/><use href="#id4" transform="rotate(120 64 64)"/><use href="#id4" transform="rotate(180 64 64)"/><use href="#id4" transform="rotate(240 64 64)"/><use href="#id4" transform="rotate(300 64 64)"/></symbol>
+<symbol id="folder-remove" viewBox="0 0 128 128"><path d="M77 57 52 81m24 0L52 57m63-21H57L46 25H14v78H115Z"/></symbol>
+<symbol id="folder-star" viewBox="0 0 128 128"><path d="m115 36H57L46 25H14v78h101zM64 50l6 14h14L74 75l4 14-14-8-14 8 5-14-11-11h14z"/></symbol>
+<symbol id="folder-tick" viewBox="0 0 128 128"><path d="M79 57 60 83 49 74m66-38H57L46 25H14v78H115Z"/></symbol>
 <symbol id="folder" viewBox="0 0 128 128"><path d="M115 103H14V25H46L57 36h58Z"/></symbol>
 <symbol id="forbidden" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="m30 30 68 68"/></symbol>
 <symbol id="forward-arrow" viewBox="0 0 128 128"><path d="m73 49V26l40 38-40 37V76m0-27q-56 0-58 53 25-39 58-26"/></symbol>
@@ -281,6 +284,8 @@
 <symbol id="share" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="signpost-choices" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZM68 57V47H60V57ZH97l5 10-5 10H47V57Zm-8 56V77h8v36Z"/></symbol>
+<symbol id="signpost-left" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZV47M60 113V47h8v66Z"/></symbol>
+<symbol id="signpost-right" viewBox="0 0 128 128"><path d="M68 27V18h-8v9Zm-20 0V47H94l6-10-6-10ZV47m20 66V47h-8v66Z"/></symbol>
 <symbol id="smartphone" viewBox="0 0 128 128"><path d="M42 14q-4 0-4 4v92q0 4 4 4H86q4 0 4-4V18q0-4-4-4ZM38 24H90m0 71H38m26 6a1 1 0 000 7 1 1 0 000-7"/></symbol>
 <symbol id="smartphone2" viewBox="0 0 128 128"><path d="M42 14q-4 0-4 4v92q0 4 4 4H86q4 0 4-4V18q0-4-4-4Zm22 87a1 1 0 000 7 1 1 0 000-7"/></symbol>
 <symbol id="speaking" viewBox="0 0 128 128"><path d="M83 54h27q4 0 4-4V31q0-5-5-5H69q-4 0-4 4V50q0 4 4 4h6v7ZM20 53q-1 14 0 17 19 14 38 0 1-4 0-17-5-4-12-13 1 4-2 9 0-8-7-11-2 5 4 16-11-6-11-12-2 4-10 11M14 101q0-15 6-23 19 11 38 0 6 8 6 23M39 71a1 1 90 010-38 1 1 90 010 38M72 33H93m6 0h8m0 7H85m-6 0H72m0 7H87m6 0h14"/></symbol>
