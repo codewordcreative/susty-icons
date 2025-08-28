@@ -17,6 +17,7 @@
 <symbol id="briefcase-solid" viewBox="0 0 128 128"><path d="M58 76v5q6 4 12 0V76h41v28H17V76ZM76 38V30H52v8Zm5-13H47V38H17V67H58V62q6-4 12 0v5h41V38H81Z"/></symbol>
 <symbol id="bug-solid" viewBox="0 0 128 128"><path d="M64 46c-50 0-39 67 0 67Zc50 0 39 67 0 67M48 49C34 18 94 18 80 49z" fill="#000"/><path d="M56 27 50 15m28 0-6 12M33 63H25L14 46M95 63h8l11-17M31 83H23L15 93m28 12H34l-9 8m60-8h9l9 8M97 84h8l8 9"/></symbol>
 <symbol id="camera-solid" viewBox="0 0 128 128"><path d="M114 39q0-15-10-5L84 54V39q0-10-10-10H24Q14 29 14 39V88q0 11 10 11H74q10 0 10-10V74l20 20q10 10 10-5V39"/></symbol>
+<symbol id="camera2-solid" viewBox="0 0 128 128"><path d="M22 38h84V92H22ZM64 83a1 1 0 000-37 1 1 0 000 37ZM48 28H80q2 0 2 2v8H46V30q0-2 2-2ZM64 55a1 1 0 000 19 1 1 0 000-19Z"/></symbol>
 <symbol id="car-solid" viewBox="0 0 128 128"><path d="M43 25q-6 0-10 9L24 53q-6-2-7 1l-2 6q-1 3 4 5-1 1-1 3V91q1 2 3 2v6q0 4 4 4H36q4 0 4-4V93H90v6q0 4 4 4h10q4 0 4-4V93q2 0 2-2V68q0-2-1-3s0 0 0 0q5-2 4-5l-2-6q-1-3-7-1L95 34q-4-9-8-9ZM35 56q-4 0-3-3c12-21 3-21 32-21s20 0 32 21q1 3-3 3Zm7 15q3 1 3 5T29 79q-3 0-3-3V69q0-3 3-2Zm58-4q3-1 3 2v7q0 3-3 3-16 1-16-3t3-5l13-4Z"/></symbol>
 <symbol id="cart-solid" viewBox="0 0 128 128"><path d="M43 81q-8 2-3 7h67v3H95a6 6 90 11-1 0H51a6 6 90 11-1 0H39a1 1 90 013-12ZM35 41h77l-7 40H40L31 41ZQ29 27 16 27v3q10 0 15 11"/></symbol>
 <symbol id="chart-bar-solid" viewBox="0 0 128 128"><path d="M13 13v102h102" fill="none" stroke="#000"/><path d="M21 107V71h24v36Zm32 0V31h24v76Zm32 0V55h24v52Z"/></symbol>
@@ -39,6 +40,7 @@
 <symbol id="email-rounded-solid" viewBox="0 0 128 128"><path d="M64 87l48-52V99H16V35Zm0-12 42-45H23Z"/></symbol>
 <symbol id="email-solid" viewBox="0 0 128 128"><path d="M64 87l48-52V99H16V35Zm0-12 42-45H23Z"/></symbol>
 <symbol id="facebook-solid" viewBox="0 0 128 128"><path d="M69 70v43H51V70H37V52H51V37s0-22 22-22H87V34H77c-4 0-7 4-7 7V52H87L84 70Z"/></symbol>
+<symbol id="fast-forward-solid" viewBox="0 0 128 128"><path d="M28 28v72L60 71v29l40-36L60 28V57Z"/></symbol>
 <symbol id="flag-pointy-solid" viewBox="0 0 128 128"><path d="M27 71h74L89 43l12-28H27v99"/></symbol>
 <symbol id="flag-solid" viewBox="0 0 128 128"><path d="M27 71h74V15H27v99"/></symbol>
 <symbol id="flag-wavy-solid" viewBox="0 0 128 128"><path d="M27 69c33 8 49-6 74 0V17c-22-9-41 6-74-1v96"/></symbol>
@@ -90,6 +92,7 @@
 <symbol id="new-starburst-solid" viewBox="0 0 128 128"><path d="M95 19q3 13 16 16-13 3-16 16-3-13-16-16 13-3 16-16M60 21q9 35 44 44-35 8-44 44-8-36-44-44 36-8 44-44"/></symbol>
 <symbol id="no-ai-solid" viewBox="0 0 128 128"><path d="M45 78l4-3H46Zm3-9h8l1-1-4-16ZM87 41V33H80V47L63 62 54 33H51L36 85l-9 8A20 20 0 1199 31ZM38 92h3l1-3L59 75h1l7 17h7L65 69 80 55V92h7V50l16-14A20 20 0 1132 97Z"/></symbol>
 <symbol id="paintbrush-solid" viewBox="0 0 128 128"><path d="M43 76Q29 76 25 92s-2 15-11 22c0 0 21 1 28-3q18-10 14-23L43 76 56 88m56-63q7-15-8-9L57 57q-7 0-7 9L65 80q8 0 8-8ZM49 68 63 81l-6 5L45 75Z"/></symbol>
+<symbol id="pause-solid" viewBox="0 0 128 128"><path d="M36 28H56v72H36Zm36 0H92v72H72Z"/></symbol>
 <symbol id="paw-print-animal-solid" viewBox="0 0 128 128"><path d="M32 92q32-45 66 0c7 10-1 24-12 20q-22-8-42 0c-11 4-19-10-12-20Zm80-45c10 8-3 32-14 25s3-32 14-25ZM90 18c12 6 2 35-12 29s1-34 12-29ZM41 17c16-7 27 23 12 31S28 24 41 17ZM17 46C28 35 45 61 34 70S6 55 17 46Z"/></symbol>
 <symbol id="pen-solid" viewBox="0 0 128 128"><path d="M28 82 14 113 30 99a3 3 0 111 1L15 114l31-13 4-9L37 79Zm86-56q0-10-10-10L57 60Q44 65 40 77L52 89q13-3 18-16Z"/></symbol>
 <symbol id="pencil-solid" viewBox="0 0 128 128"><path d="M23 87l18 18 3-3L26 84Zl-8 26 26-8 72-72q0-17-18-18Zm81-45L86 24l3-3 18 18ZM41 87 84 44l-3-3L38 84Z"/></symbol>
@@ -97,6 +100,7 @@
 <symbol id="plane-solid" viewBox="0 0 128 128"><path d="M73 49l38 25V84L73 71V98l14 9v7l-23-5-23 5v-7l14-9V71L17 84V74L55 49V31c0-22 18-22 18 0V49Z"/></symbol>
 <symbol id="plane2-solid" viewBox="0 0 128 128"><path d="M91 51l10 49-8 7L74 68 53 89l4 18-6 5L37 90 16 76l5-5 18 4L60 54 20 34l8-7L77 37 91 23c17-17 31-3 14 14L91 51Z"/></symbol>
 <symbol id="planet-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M82 110c-45-25 16-16 18-52q2-20 12-7M15 68c41 0 5-20 13-28q16-8-2-8m14-12q12 20 45-1"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
+<symbol id="play-solid" viewBox="0 0 128 128"><path d="M40 28v72L92 64Z"/></symbol>
 <symbol id="plus2-solid" viewBox="0 0 128 128"><path d="M55 55V25H73V55h30V73H73v30H55V73H25V55Z"/></symbol>
 <symbol id="poop-solid" viewBox="0 0 128 128"><path d="M102 114H29A1 1 90 0126 89a1 1 90 017-24Q25 41 48 41q22-2 11-27 28 1 18 28 23-2 18 23a1 1 90 015 24 1 1 90 012 25"/></symbol>
 <symbol id="pricetag-label-solid" viewBox="0 0 128 128"><path d="M70 18 18 70l40 41 52-53V18ZM94 34A1 1 0 0078 50 1 1 0 0094 34z"/></symbol>
@@ -104,9 +108,11 @@
 <symbol id="puzzle-solid" viewBox="0 0 128 128"><path d="M93 31q-7 0-7-7A11 11 90 1064 24q0 7-7 7H38q-7 0-7 7V51q0 7-7 7a11 11 90 100 22q7 0 7 7v20q0 7 7 7H57q7 0 7-7a11 11 90 1122 0q0 7 7 7h14q7 0 7-7V88q0-7-7-7a11 11 90 110-22q7 0 7-7V38q0-7-7-7Z"/></symbol>
 <symbol id="quote-close-solid" viewBox="0 0 128 128"><path d="M58 41q8 46-28 61-13 4-2-4Q50 82 47 63 22 71 17 51T32 26 58 41z" id="id8"/><use href="#id8" x="52"/></symbol>
 <symbol id="quote-open-solid" viewBox="0 0 128 128"><path d="M18 87q6 20 26 15T59 77 29 65Q26 46 48 30q11-8-2-4Q10 41 18 87" id="id9"/><use href="#id9" x="52"/></symbol>
+<symbol id="record-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="36"/></symbol>
 <symbol id="recycle-bin-solid" viewBox="0 0 128 128"><path d="M23 28H52a1 1 0 0125 0h27Zm81 8H24l4 76h72Z"/><path d="M58 59q12-7 22 6-5-22-25-13l-2-6-6 14 13 5Z" id="id10" stroke-width="2" fill="#000"/><use href="#id10"/><use href="#id10" transform="rotate(120 63 75)"/><use href="#id10" transform="rotate(240 63 75)"/></symbol>
 <symbol id="recycle-sharp-solid" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id11"/><use href="#id11"/><use href="#id11" transform="rotate(120 61 68)"/><use href="#id11" transform="rotate(240 61 68)"/></symbol>
 <symbol id="recycle-solid" viewBox="0 0 128 128"><path d="m58 52-25-9 10-23 5 10q35-18 42 21-17-25-37-10Z" id="id12"/><use href="#id12"/><use href="#id12" transform="rotate(120 61 68)"/><use href="#id12" transform="rotate(240 61 68)"/></symbol>
+<symbol id="rewind-solid" viewBox="0 0 128 128"><path d="M68 57V28L28 64l40 36V71l32 29V28Z"/></symbol>
 <symbol id="rocket-solid" viewBox="0 0 128 128"><path d="M45 98Q-1 129 30 83ZM83 37a1 1 0 000 15 1 1 0 000-15m23-23q8 0 8 7 0 26-31 55 0 26-23 38V91L37 68H14Q28 45 52 45q28-31 54-31"/></symbol>
 <symbol id="rss-solid" viewBox="0 0 128 128"><path d="M16 69q43 0 43 43H78q0-61-62-61Zm0-35q76 0 76 78h19q0-96-95-96ZM28 88a1 1 0 000 24 1 1 0 000-24"/></symbol>
 <symbol id="save-solid" viewBox="0 0 128 128"><path d="M42 78H85m0 11H42m0 11H83m15 13V61H29v52M72 41h8V20H72ZM88 15V46H38V15Zm21 15v84H15V15H31V53H95V15h4Z"/></symbol>
@@ -122,6 +128,7 @@
 <symbol id="star-half-solid" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93V15Z"/></symbol>
 <symbol id="star-solid" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93l36 20L89 77l24-27H78L64 15Z"/></symbol>
 <symbol id="sticky-note-solid" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
+<symbol id="stop-solid" viewBox="0 0 128 128"><path d="M28 28h72v72H28Z"/></symbol>
 <symbol id="suitcase-solid" viewBox="0 0 128 128"><path d="M42 56h5v5h4V56H88V52H42ZM59 34V20H69V34h5V15H54V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>
 <symbol id="sun-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="26"/><path d="m39 89-7 7m7-57-7-7m64 64-7-7m7-57-7 7M30 64H17m94 0H98M64 98v13m0-94v13"/></symbol>
 <symbol id="team-solid" viewBox="0 0 128 128"><circle cx="64" cy="46" r="20"/><path d="M38 39a11 11 90 103 19M90 39A11 11 90 1187 58M79 68c5-3 24-6 33 13M49 68c-5-3-24-6-33 13m8 20c13-37 66-37 79 0"/></symbol>
