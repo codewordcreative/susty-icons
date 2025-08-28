@@ -387,6 +387,7 @@
 <symbol id="rss" viewBox="0 0 128 128"><path d="M16 69q43 0 43 43H78q0-61-62-61Zm0-35q76 0 76 78h19q0-96-95-96ZM28 88a1 1 0 000 24 1 1 0 000-24"/></symbol>
 <symbol id="save-solid" viewBox="0 0 128 128"><path d="M42 78H85m0 11H42m0 11H83m15 13V61H29v52M72 41h8V20H72ZM88 15V46H38V15Zm21 15v84H15V15H31V53H95V15h4Z"/></symbol>
 <symbol id="save" viewBox="0 0 128 128"><path d="M42 78H85m0 11H42m0 11H83m15 13V61H29v52M70 40H81V21H70ZM88 15V46H38V15m75 15v84H15V15H99Z"/></symbol>
+<symbol id="scales-law-balance" viewBox="0 0 128 128"><path d="M44 77c-4 10-25 10-29 0L30 40 44 77H15m98 0c-4 10-25 10-29 0L99 40l14 37H84m7 28H37m27 0V32M53 35c2-14 20-14 22 0Zm52 0q-7 10-14 0H37q-7 10-15 0"/></symbol>
 <symbol id="science" viewBox="0 0 128 128"><ellipse id="id27" cx="64" cy="64" rx="18" ry="50"/><use href="#id27"/><use href="#id27" transform="rotate(120 64 64)"/><use href="#id27" transform="rotate(240 64 64)"/><circle cx="64" cy="64" r="6"/></symbol>
 <symbol id="science2" viewBox="0 0 128 128"><circle cx="64" cy="64" r="5"/><path d="M77 98A50 18 90 1073 107 1 1 90 0177 98 1 1 90 0173 107" id="id28"/><use href="#id28"/><use href="#id28" transform="rotate(120 64 64)"/><use href="#id28" transform="rotate(240 64 64)"/></symbol>
 <symbol id="science3" viewBox="0 0 128 128"><path d="M77 98A50 18 90 1073 107 1 1 90 0177 98 1 1 90 0173 107" id="id29"/><use href="#id29"/><use href="#id29" transform="rotate(120 64 64)"/><use href="#id29" transform="rotate(240 64 64)"/></symbol>
