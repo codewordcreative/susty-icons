@@ -286,6 +286,7 @@
 <symbol id="share-link" viewBox="0 0 128 128"><path d="M113 68V15H60m53 0L37 91M57 27H15v86h86V71"/></symbol>
 <symbol id="share" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
+<symbol id="shop" viewBox="0 0 128 128"><path d="M92 93V71H66V93Zm4-66q3-2 0-4H32q-3 2 0 4ZM27 57v48h74V57M96 27l13 25q-8 10-18 0-9 10-18 0-9 10-18 0-9 10-18 0-10 10-18 0L32 27ZM58 105V70H34v35ZH93M40 85v5H52V85Zl6-4 6 4Z"/></symbol>
 <symbol id="signpost-choices" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZM68 57V47H60V57ZH97l5 10-5 10H47V57Zm-8 56V77h8v36Z"/></symbol>
 <symbol id="signpost-left" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZV47M60 113V47h8v66Z"/></symbol>
 <symbol id="signpost-right" viewBox="0 0 128 128"><path d="M68 27V18h-8v9Zm-20 0V47H94l6-10-6-10ZV47m20 66V47h-8v66Z"/></symbol>
