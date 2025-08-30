@@ -180,6 +180,7 @@
 <symbol id="kebab-menu" viewBox="0 0 128 128"><path d="M54 64a1 1 0 0020 0A1 1 0 0054 64" id="id5"/><use href="#id5" y="32"/><use href="#id5" y="-32"/></symbol>
 <symbol id="key" viewBox="0 0 128 128"><path d="M31 49a13 13 90 004 4 13 13 90 10-4-4Zm83 56-9 9L55 64a27 27 90 119-9L85 76 98 63l8 8L93 84l7 7 6-6 8 8-6 6Z"/></symbol>
 <symbol id="key2" viewBox="0 0 128 128"><path d="M98 69V83H82V69H56a22 22 90 110-10h58V69ZM31 55a10 10 90 1010 1A10 10 90 0031 55Z"/></symbol>
+<symbol id="layers" viewBox="0 0 128 128"><path d="M64 16l48 25L64 65 16 40Zm48 48L64 88 16 64m96 23-48 25L16 88"/></symbol>
 <symbol id="layout-dashboard" viewBox="0 0 128 128"><path d="M58 18V72H18V18ZM70 49V18h40V49Zm0 12v49h40V61ZM58 84H18v26H58Z"/></symbol>
 <symbol id="layout-grid" viewBox="0 0 128 128"><path d="M42 18V42H18V18ZM86 42V18h24V42Zm0 44v24h24V86ZM42 86H18v24H42ZM52 18H76V42H52ZM18 52H42V75H18Zm34 0V75H76V52Zm34 0V75h24V52ZM52 86H76v24H52Z"/></symbol>
 <symbol id="leaf-shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12ZM45 85c13-9 26-18 32-31M55 78c-5-3-20-19 30-40C99 72 67 84 55 78"/></symbol>
@@ -288,7 +289,6 @@
 <symbol id="share" viewBox="0 0 128 128"><path d="M87 29a13 13 90 112 5L44 64 89 93a13 13 90 11-2 6L40 69a13 13 0 110-10L87 29"/></symbol>
 <symbol id="shield" viewBox="0 0 128 128"><path d="M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/></symbol>
 <symbol id="shop" viewBox="0 0 128 128"><path d="M92 93V71H66V93Zm4-66q3-2 0-4H32q-3 2 0 4ZM27 57v48h74V57M96 27l17 25q-12 10-22 0-9 10-18 0-9 10-18 0-9 10-18 0-10 10-22 0L32 27ZM58 105V70H34v35ZM40 85v5H52V85Zl6-4 6 4Z"/></symbol>
-<symbol id="shop.sync-conflict-20250830-135410-KMIPZOF" viewBox="0 0 128 128"><path d="M92 93V71H66V93Zm4-66q3-2 0-4H32q-3 2 0 4ZM27 57v48h74V57M96 27l13 25q-8 10-18 0-9 10-18 0-9 10-18 0-9 10-18 0-10 10-18 0L32 27ZM58 105V70H34v35ZH93M40 85v5H52V85Zl6-4 6 4Z"/></symbol>
 <symbol id="signpost-choices" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZM68 57V47H60V57ZH97l5 10-5 10H47V57Zm-8 56V77h8v36Z"/></symbol>
 <symbol id="signpost-left" viewBox="0 0 128 128"><path d="M60 27V18h8v9Zm20 0V47H34L28 37l6-10ZV47M60 113V47h8v66Z"/></symbol>
 <symbol id="signpost-right" viewBox="0 0 128 128"><path d="M68 27V18h-8v9Zm-20 0V47H94l6-10-6-10ZV47m20 66V47h-8v66Z"/></symbol>
@@ -302,6 +302,7 @@
 <symbol id="square" viewBox="0 0 128 128"><path d="M16 16h96v96H16Z"/></symbol>
 <symbol id="star-half" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93V15Z"/></symbol>
 <symbol id="star" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93l36 20L89 77l24-27H78L64 15Z"/></symbol>
+<symbol id="sticker" viewBox="0 0 128 128"><path d="M46 111A50 50 0 1014 57Zc8-21-8-53-32-54"/></symbol>
 <symbol id="sticky-note" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
 <symbol id="stop" viewBox="0 0 128 128"><path d="M28 28h72v72H28Z"/></symbol>
 <symbol id="suitcase" viewBox="0 0 128 128"><path d="M87 55H42h4v4M59 34V21H69V34h6V15H53V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>
