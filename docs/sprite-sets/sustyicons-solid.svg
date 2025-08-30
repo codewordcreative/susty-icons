@@ -23,6 +23,7 @@
 <symbol id="chart-bar-solid" viewBox="0 0 128 128"><path d="M13 13v102h102" fill="none" stroke="#000"/><path d="M21 107V71h24v36Zm32 0V31h24v76Zm32 0V55h24v52Z"/></symbol>
 <symbol id="chart-pie-solid" viewBox="0 0 128 128"><path d="M67 13a55 55 90 0148 47H67ZM60 67V20a47 47 90 1048 47Z"/></symbol>
 <symbol id="circle-heart-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/><path d="M64 87c37-21 30-58 0-37-29-20-36 18 0 37" fill="#000"/></symbol>
+<symbol id="circle-issue-solid" viewBox="0 0 128 128"><path d="M53 64a1 1 0 0021 0 1 1 0 00-21 0" fill="#000"/><circle cx="64" cy="64" r="50"/></symbol>
 <symbol id="circle-solid" viewBox="0 0 128 128"><circle cx="64" cy="64" r="50"/></symbol>
 <symbol id="cloud-solid" viewBox="0 0 128 128"><path d="M37 94a16 16 90 112-46 27 27 90 0151 4 1 1 0 014 42Z"/></symbol>
 <symbol id="coffee-cup-solid" viewBox="0 0 128 128"><path d="M83 48H27V89Q27 113 45 113H65Q83 113 83 86 118 55 83 55ZM83 61Q106 60 83 78ZM39 38C43 31 34 25 39 15M55 15C50 23 59 31 55 38M71 38C75 31 65 25 71 15"/></symbol>
