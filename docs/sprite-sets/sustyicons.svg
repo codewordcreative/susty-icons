@@ -68,11 +68,12 @@
 <symbol id="cat-blep" viewBox="0 0 128 128"><path d="M73 96q-9 18-18 0M22 39a48 49 90 1084 0q6-9 7-24-23 0-29 12-20-5-40 0-6-12-29-12 1 15 7 24M42 65a1 1 0 010-18 1 1 0 010 18m24 7q10 4 3 7-5 8-10 0-7-3 3-7ZM52 96q7 0 12-6 5 6 12 6M86 65a1 1 0 010-18 1 1 0 010 18m1 16 17-6M99 87H87m-1 6 6 2M36 95l6-2m-1-6H29M24 75l17 6"/></symbol>
 <symbol id="cat" viewBox="0 0 128 128"><path d="M41 81 24 75m5 12H41m1 6-6 2m56 0-6-2m1-6H99m5-12-17 6M98 54c3-10-1-7-12-7-26 3 1 39 12 7M77 96q-7 0-12-6-5 6-12 6m6-24q-7 5 1 7 5 8 10 0 8-2 1-7ZM30 54c11 32 42-4 12-7-11 0-15-3-12 7M22 39q2-9-7-24 23 0 29 12 20-5 40 0 6-12 29-12-9 15-7 24A48 49 90 1122 39M42 53q-4 4 0 8 4-4 0-8m44 0q-4 4 0 8 4-4 0-8"/></symbol>
 <symbol id="certificate" viewBox="0 0 128 128"><circle cx="86" cy="58" r="15"/><path d="M14 30H114V99H14ZM31 49H63m0 17H31m0 17H55M74 67V89l12-5 12 5V67M78 60l5 5 12-9"/></symbol>
+<symbol id="certified-code" viewBox="0 0 128 128"><path d="M40 66v46L64 99l24 13V66m6-18A30 30 0 1034 48a30 30 0 1060 0ZM59 68l9-40m2 29 12-9L71 38M56 57 44 48 56 38"/></symbol>
 <symbol id="certified-copy" viewBox="0 0 128 128"><circle cx="69" cy="67" r="15"/><path d="M57 76V98l12-5 12 5V76M61 67l5 5 12-9m24-21L82 24m0 0V42h20v71H37V24Zm1-9H27v92"/></symbol>
 <symbol id="certified-document" viewBox="0 0 128 128"><path d="M101 33 83 15m0 0V33h18v80H26V15ZM52 71V93l12-5 12 5V71M56 62l5 5 12-9"/><circle cx="64" cy="62" r="15"/></symbol>
 <symbol id="certified-security" viewBox="0 0 128 128"><path d="M52 67V89l12-5 12 5V67M56 60l5 5 12-9M64 14q11 17 42 12 2 70-42 87Q20 96 22 26q30 5 42-12Z"/><circle cx="64" cy="58" r="15"/></symbol>
 <symbol id="certified" viewBox="0 0 128 128"><path d="M49 90H36ZH36m0-17H61M74 93v13l8-4 8 4V93M77 82l4 4 6-8M36 61H92m0-12H36M55 31H36m65 2L83 15m0 0V33h18v80H26V15Z"/><circle cx="82" cy="81" r="13"/></symbol>
-<symbol id="certified2" viewBox="0 0 128 128"><path d="M40 67v45L64 99l24 13V67M48 49 59 60 80 37"/><circle cx="64" cy="48" r="30"/></symbol>
+<symbol id="certified2" viewBox="0 0 128 128"><path d="M40 66v46L64 99l24 13V66M48 49 59 60 80 37M94 48A30 30 0 1034 48a30 30 0 1060 0Z"/></symbol>
 <symbol id="chart-bar" viewBox="0 0 128 128"><path d="M13 13v102h102m-94-8V71h24v36Zm32 0V31h24v76Zm32 0V55h24v52Z"/></symbol>
 <symbol id="chart-line" viewBox="0 0 128 128"><path d="M13 13V115H115M21 84 38 63l17 6L72 48l17 9 17-19"/></symbol>
 <symbol id="chart-performance" viewBox="0 0 128 128"><path d="M13 13V115H115M21 84 38 63l17 6L72 48l17 9 17-19H96m10 0 2 9"/></symbol>
@@ -132,6 +133,11 @@
 <symbol id="equals" viewBox="0 0 128 128"><path d="M30 47H96m0 34H30 96"/></symbol>
 <symbol id="exclamation-mark" viewBox="0 0 128 128"><path d="M64 78V15m0 80a7 7 90 010 17 7 7 90 010-17"/></symbol>
 <symbol id="eye" viewBox="0 0 128 128"><circle cx="64" cy="64" r="20"/><path d="M14 64q50 57 100 0Q64 4 14 64Z"/></symbol>
+<symbol id="face-bored" viewBox="0 0 128 128"><path d="M113 64A30 30 0 1015 63a30 30 0 1098 1ZM38 49a1 1 0 0016 0A1 1 0 0038 49m36 0a1 1 0 0016 0A1 1 0 0074 49M42 83H86"/></symbol>
+<symbol id="face-calm" viewBox="0 0 128 128"><path d="M113 64A30 30 0 1015 63a30 30 0 1098 1ZM38 49a1 1 0 0016 0m36 0A1 1 0 0174 49M40 78c12 17 36 17 48-1"/></symbol>
+<symbol id="face-sad" viewBox="0 0 128 128"><path d="M113 64A30 30 0 1015 63a30 30 0 1098 1ZM38 49a1 1 0 0016 0A1 1 0 0038 49m36 0a1 1 0 0016 0A1 1 0 0074 49M40 90c4-20 44-20 48 0"/></symbol>
+<symbol id="face-smile" viewBox="0 0 128 128"><path d="M113 64A30 30 0 1015 63a30 30 0 1098 1ZM38 49a1 1 0 0016 0A1 1 0 0038 49m36 0a1 1 0 0016 0A1 1 0 0074 49M40 76c4 20 44 20 48 0"/></symbol>
+<symbol id="face-unsure" viewBox="0 0 128 128"><path d="M113 64A30 30 0 1015 63a30 30 0 1098 1ZM38 49a1 1 0 0016 0A1 1 0 0038 49m36 0a1 1 0 0016 0A1 1 0 0074 49M42 87 85 74"/></symbol>
 <symbol id="facebook" viewBox="0 0 128 128"><path d="M69 70v43H51V70H37V52H51V37s0-22 22-22H87V34H77c-4 0-7 4-7 7V52H87L84 70Z"/></symbol>
 <symbol id="fast-forward" viewBox="0 0 128 128"><path d="M28 28v72L60 71v29l40-36L60 28V57Z"/></symbol>
 <symbol id="feather" viewBox="0 0 128 128"><path d="M30 93 18 113Q53 48 97 23m12-9q-4 14-9 20-25 6-4 6-5 12-19 24-37-1-3 6L67 80q-37 0-2 4l-4 5q-10 9-32 5-5-21 2-32 7 20 4-4L50 42q2 24 5-4 13-13 54-24Z"/></symbol>
