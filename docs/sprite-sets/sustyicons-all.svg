@@ -446,7 +446,7 @@
 <symbol id="sticker" viewBox="0 0 128 128"><path d="M46 111A50 50 0 1014 57Zc8-21-8-53-32-54"/></symbol>
 <symbol id="sticky-note-alert" viewBox="0 0 128 128"><path d="M58 90a1 1 0 0112 0A1 1 0 0158 90m6-16V31m48 10H87V16H16v96h96V41L87 16"/></symbol>
 <symbol id="sticky-note-solid" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
-<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M58 90a1 1 0 0112 0A1 1 0 0158 90m6-16V31m48 10H87V16H16v96h96V41L87 16"/></symbol>
+<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
 <symbol id="stop-solid" viewBox="0 0 128 128"><path d="M28 28h72v72H28Z"/></symbol>
 <symbol id="stop" viewBox="0 0 128 128"><path d="M28 28h72v72H28Z"/></symbol>
 <symbol id="suitcase-solid" viewBox="0 0 128 128"><path d="M42 56h5v5h4V56H88V52H42ZM59 34V20H69V34h5V15H54V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>

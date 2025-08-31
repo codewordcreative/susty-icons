@@ -314,7 +314,7 @@
 <symbol id="star" viewBox="0 0 128 128"><path d="M50 50H15L41 77 28 113 64 93l36 20L89 77l24-27H78L64 15Z"/></symbol>
 <symbol id="sticker" viewBox="0 0 128 128"><path d="M46 111A50 50 0 1014 57Zc8-21-8-53-32-54"/></symbol>
 <symbol id="sticky-note-alert" viewBox="0 0 128 128"><path d="M58 90a1 1 0 0112 0A1 1 0 0158 90m6-16V31m48 10H87V16H16v96h96V41L87 16"/></symbol>
-<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M58 90a1 1 0 0112 0A1 1 0 0158 90m6-16V31m48 10H87V16H16v96h96V41L87 16"/></symbol>
+<symbol id="sticky-note" viewBox="0 0 128 128"><path d="M87 16l25 25v71H16V16H87V41h25"/></symbol>
 <symbol id="stop" viewBox="0 0 128 128"><path d="M28 28h72v72H28Z"/></symbol>
 <symbol id="suitcase" viewBox="0 0 128 128"><path d="M87 55H42h4v4M59 34V21H69V34h6V15H53V34Zm33 0q3 0 3 3v67q0 3-3 3H38q-3 0-3-3V37q0-3 3-3ZM44 107c0 9 10 9 10 0m20 0c0 9 10 9 10 0"/></symbol>
 <symbol id="sun" viewBox="0 0 128 128"><circle cx="64" cy="64" r="26"/><path d="m39 89-7 7m7-57-7-7m64 64-7-7m7-57-7 7M30 64H17m94 0H98M64 98v13m0-94v13"/></symbol>
