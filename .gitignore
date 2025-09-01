@@ -1,3 +1,4 @@
+*sync-conflict*
 *.pyc
 __pycache__/
 *.log	
