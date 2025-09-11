@@ -1,3 +1,7 @@
+# Big update... coming #
+Stay tuned. Work on the Github is pausing because I'm moving to a better system with great generation and export tools built in. In future, this Github will only host the basic source set - all tooling will be external. Susty Icons are so nearly ready! I*m aiming for release by November at the latest, most likely a lot sooner.
+
+
 ### A work in progress before initial release: Currently 355 outline icons including some variations of the same icon idea, and 155 solid variants.
 #### Last update: 30 August 2025
 
