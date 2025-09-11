@@ -94,7 +94,7 @@ Excessive data and unnecessarily information lead to code bloat. As in, more dat
 The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon. Edit: Most likely this summer, when a fellow digital sustainability nerd and I have more time to get that data and put it all together. It's coming, though!
 
 ### "Controversial" choice, at least for me...
-I'm not putting the symbol inside <defs>. It can be read by modern browsers regardless and adds pointless bits. Similarly, I'm not defining things as symbols before I reuse them with "use" again - the ID alone is enough.
+I'm not putting the symbol inside defs. It can be read by modern browsers regardless and adds pointless bits. Similarly, I'm not defining things as symbols before I reuse them with "use" again - the ID alone is enough.
 
 ### Why start with these?
 I was inspired by a discussion on light, dark, and eco mode support for websites. Eco mode is currently not an option in browsers or systems, so it needs a UI solution. Dark and light mode are both still required for aesthetic and usability/accessibility requirements. I personally am in favour of not losing the option to switch manually. I'm now adding more commonly used icons with the ambition of turning it into a full set.
