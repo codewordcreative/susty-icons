@@ -1,3 +1,6 @@
+# If you were committed enough to check here...
+Check out the [Susty Icons dot com](https://sustyicons.com) website. New icons, ambitious new tooling, and a load of information on best practices. Still sort of in beta until release 1.1, which will come in December.
+
 # Big update... coming #
 Stay tuned. Work on the Github is pausing because I'm moving to a better system with great generation and export tools built in. In future, this Github will only host the basic source set - all tooling will be external. Susty Icons are so nearly ready! I'm aiming for release by November at the latest, most likely a lot sooner. Current progress: Website tooling done, need to prepare content to explain the purpose of the project and the use of the icons. Also need to switch to an appropriate CC licence to avoid strange German tax issues.
 
