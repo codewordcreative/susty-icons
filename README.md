@@ -5,7 +5,7 @@ Check out the [Susty Icons dot com](https://sustyicons.com) website. New icons, 
 Stay tuned. Work on the Github is pausing because I'm moving to a better system with great generation and export tools built in. In future, this Github will only host the basic source set - all tooling will be external. Susty Icons are so nearly ready! I'm aiming for release by November at the latest, most likely a lot sooner. Current progress: Website tooling done, need to prepare content to explain the purpose of the project and the use of the icons. Also need to switch to an appropriate CC licence to avoid strange German tax issues.
 
 
-### A work in progress before initial release: Currently 355 outline icons including some variations of the same icon idea, and 155 solid variants.
+### A work in progress before initial release: Currently 372 outline icons including some variations of the same icon idea, and 158 solid variants.
 #### Last update: 30 August 2025
 
 ## Tooling update: 2 August 2025
@@ -91,7 +91,7 @@ In short, many of the commonly used icon sets are not great on the sustainabilit
 * Relative versus absolute positioning: While this won't make a difference in SVGs with a single starting position, it could play a role in others - increasing rendering complexity. This may have a negligible impact in small SVGs, but a bigger one in larger ones. Where there is no difference in data size, I am favouring absolute positioning.
 
 ### Specifically: Code bloat 
-Excessive data and unnecessarily information lead to code bloat. As in, more data transferred. This is often a matter of bytes, but this adds up fast in regularly used icons.
+Excessive data and unnecessary information lead to code bloat. As in, more data transferred. This is often a matter of bytes, but this adds up fast in regularly used icons.
 
 ### Specifically: Rendering and resource usage 
 The junk code is less of a problem than the rendering impact of unnecessarily complicated equations. Equally, some transforms are especially inefficient, for example, ones relating to lighting. Current tooling does not adequately account for the impact, but data will follow soon. Edit: Most likely this summer, when a fellow digital sustainability nerd and I have more time to get that data and put it all together. It's coming, though!
@@ -108,7 +108,7 @@ Pure black (#000) allows OLED monitors to completely cut power to those pixels. 
 #### By request: An example of my susty icons in a dark mode UI
 I'll most likely share another repository with code for a simple dark-light-eco mode switcher soon. In the meantime, I was asked to add an example of the susty icons in action - enabling easy, user-friendly switching between light, dark, and eco mode on a client's site. Once live, I'll post the client's site as an example of it in action. I'll also sort out adding it to my own. For now, you can find examples here:
 * the [Emoji Finder](https://codewordcreative.com/find-emojis.html) has a primitive dark/light/eco mode switcher.
-* a slightly better implementation is on the [preview page for existing sets](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html).
+* a slightly better implementation is on the [preview page for existing sets](https://codewordcreative.github.io/susty-icons/preview-variants.html).
 * and probably the best implementation so far is on the [sprite preview playground](https://codewordcreative.github.io/susty-icons/sustyicon-css-playground.html). I say best, because you can see how it fits into a responsive interface.
 
 For easy reuse, here's the text: 
@@ -119,15 +119,15 @@ When I launch the repo, I'll probably include a few different tone of voice opti
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/light-mode-example.webp" alt="Light Mode" width="200"><br>
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/light-mode-example.webp" alt="Light Mode" width="200"><br>
       <strong>Light mode</strong>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/dark-mode-example.webp" alt="Dark Mode" width="200"><br>
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/dark-mode-example.webp" alt="Dark Mode" width="200"><br>
       <strong>Dark mode</strong>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/demo-pics/eco-mode-example.webp" alt="Eco Mode" width="200"><br>
+      <img src="https://raw.githubusercontent.com/codewordcreative/susty-icons/refs/heads/main/docs/demo-pics/eco-mode-example.webp" alt="Eco Mode" width="200"><br>
       <strong>Eco mode</strong>
     </td>
   </tr>
@@ -153,7 +153,7 @@ I’ll cover this soon and link to it.
 Over time, I’ll keep adding more. If I keep at it, eventually it'll be enough to call a set.
 
 ### Potential improvements
-Negative space variants. I already have scripts to vary padding (the easiest while remaining efficient involves a transform on the axes and changing the viewbox size), change the colours, and change the line thickness. Negative space could potentially be automated, but would then require manual correction and potentially redrawing in some cases. ´
+Negative space variants. I already have scripts to vary padding (the easiest while remaining efficient involves a transform on the axes and changing the viewbox size), change the colours, and change the line thickness. Negative space could potentially be automated, but would then require manual correction and potentially redrawing in some cases.
 
 ### One day, maybe
 A generator with different styling options. Probably doable, but I’ll need to finish paid projects first!
@@ -167,7 +167,7 @@ I’m very new to Github, so bear with me if I do things in a strange way.
 It's low tech, because it needs the human eye. I use SVG Viewer (https://www.svgviewer.dev/) to see how I am doing and guide my adjustments. I insert my template (1template.svg) then play with the path using the SVG path editor (https://yqnn.github.io/svg-path-editor/) to ensure it's centred in a 128 x 128 grid with 12-point spacing. 
 
 ### Approaches
-You can use the SVG path editor to clean up existing paths, play with size and rotation, round, and optimise. This is especially useful when ensuring a good fit in the grid. In general, you can go through the list of things I criticised in normal icons above. Cutting out unnecesary points. Working out how you can combine curves. Replacing complex curves with quadratic Bezier curves. Replacing straight 'curved' lines with curved lines. And when appropriate, also using reusable shapes and specific built-in shapes, such as circles. Try to favour absolute paths. The optimise function should be performed last. But note that it won't do more than the maths - and sometimes you'll need to check or correct how something rounded. Lastly, be sure to not include attributes you don't need in that design. As in, I use stroke-linecap="round" stroke-linejoin="round" in my icons, but not all icons need both to look correct. Equally, some solid icons do still benefit from them.
+You can use the SVG path editor to clean up existing paths, play with size and rotation, round, and optimise. This is especially useful when ensuring a good fit in the grid. In general, you can go through the list of things I criticised in normal icons above. Cutting out unnecessary points. Working out how you can combine curves. Replacing complex curves with quadratic Bezier curves. Replacing straight 'curved' lines with curved lines. And when appropriate, also using reusable shapes and specific built-in shapes, such as circles. Try to favour absolute paths. The optimise function should be performed last. But note that it won't do more than the maths - and sometimes you'll need to check or correct how something rounded. Lastly, be sure to not include attributes you don't need in that design. As in, I use stroke-linecap="round" stroke-linejoin="round" in my icons, but not all icons need both to look correct. Equally, some solid icons do still benefit from them.
 
 ### Warnings
 Other tools will manipulate the icons when imported and exported again. On simpler icons, the impact may not be too big. My colleague and friend Nick Lewis tested the leaf icon (very simple) and the Github icon on Figma. The points themselves were changed in both cases, but the impact was minimal on the leaf. On the more detailed Github icon, however, there was a substantial increase in file size.
@@ -197,6 +197,6 @@ Resources I found a bit later:
 
 ## Attribution, forks, modification, licensing
 
-I've deliberately used a permissive MIT License to encourage broad adoption of more sustainable icons everywhere. While not required under the MIT License, I’d still appreciate it if you could kindly credit me when redistributing these icons of modifications thereof, and or let me know if you’re redistributing them. To be honest, it’ll make me happy just to know more people are eager to rid the internet of inefficient icons. Added because of past experience with plagiarists: Obviously, you can't claim credit for creating them in the first place. I made them, and it took a lot of time and hyperfocus. Reuse, education, and learning from my techniques is encouraged. Deceptive behaviour is not. 
+I've deliberately used a permissive MIT License to encourage broad adoption of more sustainable icons everywhere. While not required under the MIT License, I’d still appreciate it if you could kindly credit me when redistributing these icons or modifications thereof, and or let me know if you’re redistributing them. To be honest, it’ll make me happy just to know more people are eager to rid the internet of inefficient icons. Added because of past experience with plagiarists: Obviously, you can't claim credit for creating them in the first place. I made them, and it took a lot of time and hyperfocus. Reuse, education, and learning from my techniques is encouraged. Deceptive behaviour is not. 
 
 Regarding brands: All brand icons are trademarks of their respective owners. The use of these trademarks does not indicate endorsement by the trademark holder. Do not use these icons to misrepresent these brands in any way. Where these brands have their own additional brand guidance, their requests apply here analogously.
